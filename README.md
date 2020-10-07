@@ -8,3 +8,5 @@ Relevant information (title, content, answer, tags) were extracted and cleaned f
 You can find the original dump at https://github.com/bastiion/answers.semanticweb.com-dump
 
 The content from answers.semanticweb.com is licenced under the CC-BY-SA 3.0.
+
+Folder scripts contains the "questions.json" file, as well as the scripts employed to create the materials in /csv and /lists.
