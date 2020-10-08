@@ -1,0 +1,1058 @@
+title,author,author_rep_score,tags
+How to get RDF Resource identifier via SPARQL,alex,15,"['sparql', 'rdf-xml', 'beginner']"
+An illustration on ontology mapping,W.T Zhou,697,"['ontology', 'matching']"
+Load RDF data into the default graph of Virtuoso,grofzero,23,"['graph', 'virtuoso']"
+Virtuoso RDF file load,Priyam,500,"['jena', 'rdf', 'userscript', 'virtuoso']"
+A question on the tool developed by DKM Research Unit for automatically encoding a BPD into an A-box,W.T Zhou,697,"['ontology', 'tools']"
+inbound links wikipedia content,libo,191,"['wikipedia', 'beginner']"
+Populating Virtuoso with RDF data,Priyam,490,"['jena', 'java', 'virtuoso']"
+Creating Anonymous Defined class with P4 -rc -235,Monika,288,['protege']
+VirtRDFInsert examples,Priyam,500,"['jena', 'web', 'virtuoso', 'dataset']"
+Wordnet domains,lexii_5,0,['semantic']
+Virtuoso: make install doesn't succeed: permission denied etc.,B777,161,"['triplestore', 'virtuoso']"
+Virtuoso starts and exit,B777,101,['virtuoso']
+Storage in Postgres with Jena,pricastro,3,"['jena', 'storage', 'database']"
+LinkedGeoData Rest API internal server error,bizso09,75,"['linkeddata', 'api']"
+[closed] Using TBC and existing foaf.rdf files and using multiple ontologies.,Bruce Whealton,229,"['foaf', 'ontology-alignment', 'rdf', 'topbraid']"
+An ontology for user context,amin_b,363,['ontology']
+What is semantically annotated ontology,Priyam,470,"['search', 'ontology', 'annotation', 'faceted']"
+Add triples in an ontology using Jena API,Deb,181,"['jena', 'api', 'java', 'ontology']"
+Ontology with machine learning,Nosheen,1,"['ontology', 'machine-learning']"
+Ontology Mapping,ZuriNET,170,"['mapping', 'rdfs']"
+projects to learn Semantics and IR,Hady Elsahar,429,"['nlp', 'semantic', 'semanticweb']"
+Semantic knowledge of my rdf data inside virtuoso,Martin,41,"['linkeddata', 'publishing', 'virtuoso']"
+DBPedia + CIA Factbook +data GOV SPARQl query,Priyam,500,"['wikipedia', 'dbpedia', 'sparql']"
+Representing Trips with html+rdfa,karlcow,391,"['events', 'geolocation', 'date', 'rdfa']"
+technology requiremetns to develop semantic web,Minal,1,['semanticweb']
+bad uri exception while modelling,Kathelijn,21,"['uri', 'modelling']"
+RDF versus OWL 2 QL,ZuriNET,170,"['owl2', 'sparql']"
+Creating OWL classes and Properties for a vocabulary rather than an instance document using the OWL-API,Monika Solanki,279,['owl-api']
+Ontology engineering tutor?,edan,263,"['services', 'ontology-modelling', 'guidance', 'tutorial', 'courses']"
+How to import SWRL/RDF or SRWL/XML rules into Protege 3 or 4?,thunki,1,"['swrl', 'protege']"
+External data source,wingtsun,1,"['instance', 'ontology', 'dbpedia', 'protege']"
+How to get unique results from SPARQL query..,yanz,89,"['query', 'sparql']"
+How to add more than one variable in SPARQL?,Farhanamamun,13,"['sparql1.1', 'sparql']"
+why does Sesame URI class change URI representation?,blackbox,87,"['sesame', 'rdf', 'sparql']"
+How to express a book quote into RDFa+html? (use cases),karlcow,406,"['rdfa', 'html', 'tutorial']"
+how VirtModel.openDatabaseModel works?,payalC,81,"['jena', 'rdf', 'semanticweb']"
+RDFa usage in form validation,fellahst,3,"['html', 'rdfa', 'form', 'validation']"
+help me in this Sparql query,ahmedsaud,228,"['query', 'rdfquery', 'sparql']"
+tool for traversing linked data,Samuel,161,"['linkeddata', 'triples', 'sparql']"
+datatype properties of a class,ahmedsaud,228,"['jena', 'sparql']"
+Is possible SPARQL directly in RDFa htm?,Celsowm,490,"['sparql', 'rdfa']"
+OWL query language that supports selecting properities,utapyngo,1,"['owl', 'property', 'language', 'query']"
+Can I use namespace prefix in rdf:about attribute?,Samuel Lampa,668,"['rdf-xml', 'namespace']"
+Viewing graphs in Virtuoso,payalC,81,"['jena', 'triplestore', 'rdf', 'virtuoso']"
+SWETO Ontology,Samuel,161,"['linkeddata', 'ontology']"
+DBpedia Properties Domain & Range,niazi asif,105,['dbpedia']
+owl:sameAs shows similarity or identicality,Samuel,161,"['linkeddata', 'owl']"
+SPARQL query inside php code error,niazi asif,105,"['php', 'sparql']"
+Multiple SPARQL Queries in a PHP page,niazi asif,105,"['php', 'sparql']"
+datasets that contain geospatial metadata,sad_roller,201,"['rdf', 'geo', 'metadata']"
+Accessing OWL in Eclipse,web,123,"['arq', 'sparql', 'owl']"
+SPARQL querying over multiple files [beginner],durai,47,"['query', 'sparql', 'beginner']"
+Semantic Search [beginner],durai,47,"['search', 'learning', 'beginner']"
+Jena sdb ARQ template?,Ego,39,"['jena', 'arq', 'sdb']"
+SPARQL Execution,web,123,"['jena', 'rdf', 'sparql']"
+Linked data wrappers,metaweb87,804,"['linkeddata', 'dataset']"
+Convert Nested XML to RDF\XML,Stalin,141,['ontology-modelling']
+[closed] Job Requirement Semantic Web Sr. Software Developer/ Project Lead,mike0011,0,"['web', 'semantic']"
+SPARQL via HTTP POST with cURLpp,Nikola Milikic,199,"['sparql', 'http']"
+Is rdfs:Resource a subclass of rdfs:Resource ?,Manukisan,1,"['rdf', 'rdfs']"
+Using Radiant plugin-in to add semantics,bzaidi,1,"['semantic', 'eclipse', 'ontology-mapping']"
+how to import  yago and freebase into Virtuoso OpenLink,zythit,41,"['yago', 'virtuoso']"
+extraction of entity's properties set using Sparql,Harel,271,['sparql']
+Classification of Web pages using Ontology,The Man,1,"['ontology', 'semanticweb', 'classification']"
+What's the best Problem Statement for Return of Goods,PISM,1,['web']
+InvocationTargetException on Web Service using Jena,israelord,3,"['jena', 'web', 'java', 'soap', 'service']"
+OWL Schema for OWl & rdf: vocabulary?,database_animal ♦,8,"['owl', 'rdf', 'schema']"
+Problems with phpSesame,delphimethod,1,[]
+semantic web search engine,anothercsguy,10,"['search', 'design', 'semanticweb']"
+Tell whether a particular instance has a class as superclass?,Codera Purpa,144,"['jena', 'query', 'semantic', 'sparql']"
+"In iCalendar ontology, specify a relation between VAlarm and VEvent?",fuming,29,"['ontology', 'ical']"
+JENA TDB reading quad and triple store,Riccardo Alb...,280,"['jena', 'quads', 'tdb']"
+ARQ w/ assembler: No dataset description found,Tim,25,"['jena', 'n3', 'owl', 'arq']"
+How to get all the individuals(ie members) of a class.,umar,63,"['jena', 'sparql']"
+Problem Querying RDF Doc from URI  with DOTNETRDF,Hady Elsahar,427,"['dotnetrdf', 'uri', 'rdf']"
+Protege 4.2 and simple SWRL rule,OwlFinder,13,"['swrl', 'rules', 'protege']"
+querying LAN-hosted virtuoso server via dtonetRDF,sherifkandeel,239,"['dotnetrdf', 'virtuoso']"
+Get all root level properties.,umar,63,"['jena', 'tdb', 'java', 'sparql']"
+linking a document to an event,dguardiola,599,"['property', 'vocabulary']"
+Find disjoint properties,umar,63,"['jena', 'sparql']"
+Open Graph and FOAF ontology alignemnt,Remon Georgy,548,"['foaf', 'facebook', 'arc2']"
+Define/Restrict a object property with a data property,crj,1,['modelling']
+How do I use Jena based servlets from within eclipse?,Anjanashish ...,1,['jena']
+how to use twitter or facebook API to get data from discussions about CO2 emissions from powerplants,murad,0,"['twitter', 'api', 'facebook']"
+can how can I use jena to execute SPARQL from end point,murad,0,"['jena', 'sparql']"
+How to parse FOAF with PHP?,karlcow,391,"['foaf', 'parsing', 'php']"
+Is possible to get all rdf file where is metion something about berlin ?,hudi1,23,"['sparql-endpoint', 'rdf', 'sparql']"
+Sparql query doesnt return all records,hudi1,23,"['rdf', 'sparql']"
+All type of berlin,hudi1,23,"['dbpedia', 'sparql']"
+Parse RDFa in a Java Collection or Object[],Celsowm,486,"['java', 'rdfa', 'jena', 'owl-api']"
+Use limit in sparql query,hudi1,23,['sparql']
+how to use Google API to collect URL's,dddd 1,1,"['google', 'api']"
+Protege doesn't view properties defined in imported ontologies,sad_roller,201,"['owl', 'property', 'protege']"
+Problem while classifying defined classes,Monika Solanki,519,"['inference', 'owl']"
+removeLabel dose not work for Resource,umar,63,"['jena', 'tdb', 'semanticweb']"
+setting a limit for each union in Sparql Query,Hady Elsahar,429,"['query', 'sparql', 'virtuoso']"
+Fetching all annotations of ontmodel,umar,63,"['jena', 'tdb', 'semanticweb']"
+Implement a semantic search with in a web application,arlahiru,1,"['jena', 'semantic', 'rdf', 'owl', 'sparql']"
+DBpedia file containing ontology class hirearchy,myahya,53,['dbpedia']
+Modelling the domain with converting tools like csv2rdf and desired raw datasets for publishing,iroen,11,"['ontology', 'rdf', 'data', 'modelling']"
+Reasoning Data Stored In Tripple Store,TripleA,4,"['jena', 'triplestore', 'ontology', 'reasoning']"
+How I can write a SPArql query to retrive data,mokha,11,"['sparql-endpoint', 'owl', 'sparql1.1', 'rdf', 'sparql']"
+Getting all transitive subtypes of a type through DBpedia SPARQL endpoint,myahya,103,"['dbpedia', 'reasoning']"
+How i can get RDF export from Wikipedia?,Hanin Ali,21,"['rdf', 'dbpedia', 'sparql', 'semanticweb']"
+"books on SKOS, FOAF, etc.",Dan Leadgy,117,"['learning', 'skos', 'foaf']"
+Geotagged dbpedia sparql query - want to include abstract in result set,Paul M,21,"['dbpedia', 'geo', 'sparql']"
+DBPedia Arabic Support,zoghbyaya,1,['dbpedia']
+Jena web service error,Mahmoud Hosny,1,"['jena', 'java', 'semanticweb']"
+Run D2R server in Apache Tomcat container,amita,65,"['rdb2rdf', 'd2r-server']"
+use virtload.sh,samsouma,87,"['dbpedia', 'sparql', 'virtuoso']"
+creating Graph using construct and Using that Graph in SPARQL Query without storing it.,CHANDAN,121,"['graph', 'sparql', 'query']"
+Building RDF-3X from source,samsouma,87,"['rdf', 'sparql']"
+How to start the implementation,zoghbyaya,1,"['web', 'search', 'semantic', 'linkeddata']"
+Which rasqal api's are used to store and process the results of  sparqal query,Babu Prasad,1,"['turtle', 'sparql-endpoint', 'sparql1.1', 'rdf', 'sparql']"
+sparql regex problem in java,sandra,121,"['regexp', 'java', 'sparql']"
+Regular expressions in SPARQL,samsouma,87,"['triplestore', 'sparql']"
+Programming for Semantic Web,bedi_hs,1,"['web', 'semantic', 'research']"
+[closed] What are the probable cause which lead to the NullPonterException during ontology modeling.,W.T Zhou,697,"['ontology-modelling', 'protege']"
+JENA API Function name for tuple Insertion,web,123,"['jena', 'sparql-update', 'sparql']"
+[closed] ontology project on crops in india,shuu,0,"['web', 'ontology', 'semantic']"
+[closed] Debugging project from google code repository,Jannat Arora,15,"['google', 'eclipse', 'c++']"
+[closed] API key for Intel's hardware database?,cretep,0,"['hardware', 'opendata', 'api', 'database', 'dataset']"
+Updating Tuples in the ontology,semsi,1,"['jena', 'sparql']"
+Retrieving data based upon geolocation in DBpedia,bopo,15,"['dbpedia', 'sparql']"
+Querying an ordered list with SPARQL,ktk,245,"['ordering', 'list', 'sparql']"
+rdfs:seealso in linked data,mat,1,"['linkeddata', 'web-of-data', 'semanticweb']"
+OwlDotNetApi documentation,joul muzuha,1,"['ontology', 'owl-api', 'protege']"
+How to deal with the encoding problem during ontology storing?,W.T Zhou,667,['ontology']
+Help with INSERT query arc2,Ego,39,"['sparql', 'arc2']"
+HELP with using variable in filter regex php arc2,Ego,39,"['filter', 'sparql', 'arc2']"
+Manipulation of sesame server repositories in java servlet,name,11,"['sesame', 'jsp', 'eclipse']"
+SPARQL1.1 Compilation error,sasidon,123,['sparql-update']
+how to represent a graph rdf,samsouma,87,"['triplestore', 'rdf']"
+[closed] What do think of knistr.com?,ChristianF,0,"['triplestore', 'ontology', 'semanticweb']"
+Jena output is corrupted,austin powers,55,"['jena', 'web', 'rdf', 'java']"
+DataType Property,shuu,0,"['semantic', 'semanticweb']"
+Is there any one experience using S-MAtch,newbie14,47,['ontology-alignment']
+Semantic file browser,pedro,253,"['semantic', 'resources', 'research']"
+What will be the input to rdf crawler if I have to implement it?,avadha,2,"['rdf', 'crawler']"
+[closed] Cypher Natural Language to RDF/SPARQL transcoder,fellahst,3,"['nlp', 'sparql']"
+[closed] Java web service error,arlahiru,1,"['java', 'jena']"
+Java web service error,arlahiru,1,"['java', 'owl', 'jena', 'beginner']"
+"how to form a file in "".n3"" format?",Jannat Arora,65,"['notation3', 'rdf', 'semantic', 'semanticweb', 'n3']"
+rdf/xml document,amita,65,['sesame']
+SPARQL: Query without specifying a datatype?,jeep,3,"['sparql', 'rdf', 'dbpedia', 'datatypes']"
+Are Fuseki and ARQ a good choice?,Fico1021,47,"['jena', 'arq', 'fuseki', 'sparql']"
+Mapping of DBpedia objects to a certain data type in SPARQL,ktk,255,"['dbpedia', 'datatypes', 'federated-query', 'sparql']"
+"Extract Subject, predicate, object from the following RDFS excerpt.?",Maged Azony,10,['rdfs']
+What is the difference between XML schema and RDF schema,Maged Azony,10,['rdf-xml']
+"Define Ontology and mention its types, supporting your answer with illustrative example?",Maged Azony,10,['ontology']
+Expain with Examples  what is the difference between the owl:allValuesFrom and owl:someValuesFrom ? and What kind of inference power does OWL give us through  owl:allValuesFrom ?,Maged Azony,10,['owl']
+"[closed] -What  "" FOAF"" is and what it does?",Maged Azony,10,['foaf']
+Any good resources about NLP & Semantic-Web?,Harel,241,"['nlp', 'resources']"
+Semantic Web MsC Project,Aysha Dar,23,"['php', 'semantic', 'semanticweb', 'sparql']"
+Tutorial on serving Linked Data using Apache PHP server,Monika Solanki,519,['linkeddata']
+Confirming about the mapping using benchmark OAEI,newbie14,47,"['ontology', 'ontology-mapping']"
+Visualisation tools for OWL,redoc,1,"['owl', 'rdf', 'java', 'ontology-alignment', 'visualization']"
+Help with SPARQL query using multiple FILTERs,Erick Wilts,1,[]
+Sparql Query Get Resource Details,TripleA,4,"['triplestore', 'sparql']"
+Help getting large data set into Linked Open Data Cloud,Bruce Whealton,229,"['triplestore', 'linkeddata', 'dbpedia', 'fuseki', 'geolocation']"
+Writing a Resource ??,katary,21,"['uri', 'resources']"
+Linking Models ?,katary,21,"['jena', 'ontology', 'inference', 'reasoning']"
+presentation layer,Ghassan,45,"['web', 'applications']"
+Reasoning and Inference using jena,SSN,1,"['jena', 'reasoner', 'inference', 'reasoning', 'rdfs']"
+Sparql Query Select Distinct ?s ?p ?o,TripleA,4,"['triplestore', 'semantic', 'sparql']"
+Pizza Ontology pizza-latest file data range,Farhad_dv,11,['protege']
+[closed] Rule based Reasoning,katary,21,['reasoning']
+OWL-S strength  and weakness,Ghassan,45,['owl-s']
+can use sql server  without changes in establishing semantic web?,nermeenellaban,1,"['web', 'server', 'semantic', 'sql']"
+Complex SPARQL Query ??,katary,21,"['query', 'sparql']"
+"[closed] SPARQL,RDF,OWL AND FEATURE VECTOR",biman,1,"['sparql', 'rdf', 'owl', 'beginner']"
+[closed] can i use sql server itself and rdf together in semantic web,nermeenellaban,1,"['web', 'server', 'semantic', 'sparql', 'sql']"
+[closed] Usage of JSON files,Dimis,31,"['json', 'javascript', 'parsing']"
+Turtle Output not as expected,taurenshaman,61,"['turtle', 'dotnetrdf']"
+How to model RDF vocabulary for question answering website?,nishikant,69,"['rdf', 'semanticweb']"
+[closed] Tools for semantic summarization of documents?,mogambo,11,['semanticweb']
+semantic summarization of web document,akki,1,"['cluster', 'homework']"
+Problem reading big size (800 MB) rdf file using jena,nishikant,69,"['jena', 'rdf']"
+I have to create a software for managing database. which is better java or dotnet?,carla123,1,['dotnetrdf']
+project guidance,vvv,1,"['project', 'topics']"
+Connecting RDF with RAP - RDF API for PHP,oshadami,10,['sparql']
+Can the semantic web display content like rss?,Dale,11,"['semantic', 'beginner']"
+Has anyone had success in using SKOSEd wth Protege 4.1?,Monika Solanki,519,"['skos', 'protege']"
+How to find out desired fact in yago dataset?,rosebeck,173,"['yago', 'semantic', 'semanticweb', 'sparql']"
+Protege OWL API,sam123,112,"['owl', 'api', 'protege']"
+jena TDB installation on mac,nishikant,69,"['jena', 'tdb']"
+webpage to RDF graph,metaweb87,834,"['conversion', 'rdf']"
+HTML to RDF converter,Praful,59,"['conversion', 'rdf', 'html', 'semanticweb']"
+vocabulary property equivalence,metaweb87,804,['vocabulary']
+building RDF files best practices,Hady Elsahar,427,"['owl', 'property', 'rdf']"
+Difference between part-of and object properties,Erandir,376,"['property', 'modelling', 'protege']"
+Sindice  Query,Praful,59,['semantic']
+example data sets,manjulashenoy,1,"['web', 'semantic']"
+Accessing TDB database with play framework 2,nishikant,69,"['jena', 'tdb', 'eclipse', 'fuseki']"
+Querying from Dotnet has different response than remote end point from virtuoso,Hady Elsahar,427,"['triplestore', 'dotnetrdf', 'sparql']"
+How can i start semantic web application development?,bukharig8,1,['development']
+Adding Annotations to Ontologies using Fuzzy Owl2,Jlisa,9,"['owl2', 'ontology']"
+Creating OWLObjectProperty using OWLAPI,priyatham51,13,"['semanticweb', 'owl-api']"
+DBpedia 3.8 extraction missing wikipedias.csv,dbpedia_user,11,['dbpedia']
+Temporal filtering with query-time inferencing,mhermans,510,"['query', 'inference', 'sparql', 'owl', 'time']"
+Does it matter what do I enter as the HEADER of OWL files?,Bobak,23,"['owl', 'protege']"
+Federated SPARQL on sparql.org?,Egon Willigh...,1,"['federated', 'sparql', 'service']"
+Display  Onltology Class Hierarchy using JTree,priyatham51,13,"['hierarchy', 'owl', 'ontology', 'trees', 'owl-api']"
+How to filter based on sioc,OntoLearner,62,['xml']
+What is the best way to store ontologies for you?,kamlhmaz,389,"['ontology', 'storage', 'database']"
+GUI using OWL API,Jlisa,9,"['ontology', 'owl-api']"
+"RDFXML Parsing Error: The entity was referenced, but not declared.",Bobak,23,"['rdf-xml', 'rdf', 'owl']"
+How to use jena-SPARQL from web application?,sshhiny,107,"['jena', 'arq', 'php', 'sparql']"
+QueryParseException Lexical error in SPARQL,nishikant,69,"['jena', 'sparql-update']"
+List of semantic web application Framework,pooranpatel2512,1,"['jena', 'sparql1.1', 'semanticweb']"
+How to publish Linked Data using DBpedia web interface,mulone,287,"['linkeddata', 'dbpedia', 'publishing', 'virtuoso']"
+use jena to get distance between classes in an ontology,fateme.hosseini,15,"['ontology', 'jena', 'beginner', 'paths']"
+What is the best approach/algorithm for displaying data from DBpedia SPARQL Queries?,Bruce Whealton,229,"['query', 'json', 'php', 'sparql']"
+how to generate metadata for my xml file using dublin core,kalaramar,-1,['metadata']
+How to get my RDF metadata into the Linking Open Data Cloud?,kalaramar,-1,['lod']
+lod metadata,kalaramar,-1,"['lod', 'metadata']"
+OWL file comparison,kalaramar,-1,['owl']
+An upper ontology in OWL for processes,Monika Solanki,519,"['process', 'ontology', 'upper-ontology']"
+[closed] Best Real World Semantic Projects,newsemanticl...,21,"['project', 'knowledge-representation', 'repository', 'semantics']"
+Find a common word,Triponi,11,['tools']
+SPARQL Queries on own Ontology,George Abraham,259,"['owl', 'rdf', 'sparql']"
+Jena TDB+OWL reasoning,dhas,13,"['jena', 'tdb', 'reasoning', 'owl']"
+"What are some tools, libraries, frameworks that might be used to migrate a Semantic Web App from MediaWiki??",Bruce Whealton,229,"['javascript', 'sparql', 'php', 'semanticweb']"
+SPARQL Query comparision expresssion,Rodolfo,35,"['sparql', 'owl', 'beginner']"
+Protegé not setting DataProperty,Loy,11,['protege']
+Help with simple query,sumeshka,13,"['dotnetrdf', 'sparql']"
+linked data and D2RQ,newbie12,13,"['semanticweb', 'rdf', 'd2rq', 'virtuoso']"
+Update VOS 6.1.6 using Jena without loading to memory by using Sparql endpoint,VenkateshCha...,11,"['jena', 'sparql-endpoint', 'virtuoso']"
+Background knowledge links,newbie14,47,['ontology-alignment']
+Health Focused Web app,wesgarnett,11,"['applications', 'search', 'health-care']"
+How to convert RDFa to RDF(or similar) in Java?,Celsowm,490,"['owl', 'conversion', 'rdf', 'rdfa', 'n3']"
+Question Answer System,sww,45,"['semantic', 'triples', 'feature-request']"
+wich ontology could be used to get domain names information,webGuada,11,['ontology']
+How to make this sparql complex request type?,jacky,75,"['sparql', 'java', 'ontology']"
+SPARQL QUERY (FILTER),Aysha Dar,23,"['query', 'sparql']"
+Integration for inference,kalaramar,-1,['inference']
+"How to formulate this Sparql complex request type, from an OWL Ontology?",jacky,75,"['sparql', 'ontology', 'owl', 'java']"
+Jena serialize individuals only,dhas,13,"['jena', 'owl', 'rdf']"
+SPARQL Query for finding individuals of defined Classes where I do not add individuals but by reasoning It can have individuals?,Md Mahedi Ka...,11,"['sparql', 'protege']"
+Help me to select a research topic,AminBeiranvand,375,"['topics', 'semanticweb', 'research']"
+Help with Federated Queries (more than one data source/set) and when data is not there...,Bruce Whealton,229,"['sparql-federation-extensi', 'federated-query', 'sparql']"
+Can we request an OWL ontology using SPARQL directly without transforming it ?,lara,18,"['owl', 'sparql', 'jena']"
+Syntax in SPARQL queries,Aysha Dar,23,"['query', 'sparql']"
+[closed] Querying DBPedia,Tleilaxx,11,"['query', 'dbpedia', 'sparql']"
+mincardinality of properties,fateme.hosseini,15,"['ontology', 'jena']"
+need a way to calculate the distance between two nodes of a an ontology,fateme.hosseini,15,"['ontology', 'jena', 'paths']"
+Merging a little ontology with DBpedia,Roberta Perrone,41,"['ontology-alignment', 'ontology', 'dbpedia']"
+Where is rdfs:label in FOAF specification,Ankit Jain,322,['foaf']
+Human Resources Ontology,seralf,676,"['ontology-modelling', 'ontology', 'resources', 'human']"
+How to get geonames for query,dataman,25,"['linkeddata', 'geonames']"
+Can't get World Bank example to work,prorsw,9,"['linkeddata', 'sparql']"
+dbPedia SPARQL Query for Cities,newbiepedia,11,['dbpedia']
+Connecting Gruff to Allegrograph,mmorais,31,"['allegrograph', 'configuration']"
+DBpedia enlargment with Wikitext.,Roberta Perrone,41,"['wikipedia', 'ontology', 'dbpedia']"
+Protege with eclipse,kalaramar,-1,['protege']
+"Problem with Protege, SameAs property",Roberta Perrone,41,"['owl-sameas', 'protege']"
+problem about listclasses() of ontology,fateme.hosseini,15,"['ontology', 'jena', 'rdfs-subclassof']"
+Jena API function to resolve multiple prefix,Xichuan,32,"['jena', 'prefix', 'api', 'rdf']"
+level of concepts in ontology,fateme.hosseini,15,"['ontology', 'jena']"
+Federated Query,amin_b,333,"['linkeddata', 'federated-query', 'semanticweb']"
+How to get an individual which match an Objectproperty with Jena ?,FOPA Léon Co...,67,"['jena', 'namedindividual']"
+How to extract only some terms of DBpedia?,Celsowm,486,"['dbpedia', 'owl', 'rdf', 'jena', 'parsing']"
+SPARQL DBpedia,Roberta Perrone,41,"['dbpedia', 'sparql']"
+[closed] help me choose my Master thesis topic on semantic web,Wisamx,43,"['topics', 'semanticweb', 'thesis']"
+Connecting DBPedia to IMDb to get data,Bonson,19,['dbpedia']
+Why is not there an `OntologyAnnotationChange` class in OWL API?,utapyngo,1,['owl-api']
+Searching for IMDb URL in LinkedMDB and DBPedia,Bonson,40,['linkeddata']
+Ontology & Triples,sww,35,"['ontology-modelling', 'parsing', 'triples', 'ontology-alignment']"
+How is the Pellet.getAnnotationPropertyValues() equivalent in Hermit?,Celsowm,492,"['owlapi', 'reasoner', 'pellet', 'hermit']"
+Linking concepts using OWL.sameAs in Jena,dadalocsin,23,"['jena', 'owl', 'java']"
+jena rules for protege rdf files,kalaramar,-1,"['jena', 'sparql']"
+How to make an individual of one class be individual of a superclass in Jena ?,FOPA Léon Co...,33,"['jena', 'owl', 'rdf']"
+ontology vs ontologies vs owl,nanaa,-1,"['ontology', 'semantic']"
+How to store a Jena Model in a SDB database ?,FOPA Léon Co...,23,"['jena', 'tdb']"
+Federated query in Virtuoso,jimkont,78,"['sparql', 'virtuoso']"
+"Data model and ontology model, two different things with Jena?",Zsombi,49,"['jena', 'ontology', 'data', 'modelling', 'beginner']"
+Converting Tables to N-Triple format,sherifkandeel,239,"['triplestore', 'wikipedia', 'semantic', 'goodrelations']"
+How to use the Template:IMDb_title attribute,Bonson,30,"['linkeddata', 'dbpedia']"
+Nested annotations in RelaxNG?,mylex,1,"['annotation', 'xml']"
+DBpedia external resource in Protege,Roberta Perrone,41,"['dbpedia', 'same-as', 'protege']"
+MMI Events and RDF,William Greenly,5,"['owl', 'rdf', 'mmi']"
+How to populate an owl ontology using jena,salem,59,['ontology']
+World Earthquakes available in open data?,libo,191,['opendata']
+Analyzing Inputs from Web through Ontologies,Botticelli,57,"['ontology', 'web']"
+Protege DatatypeProperty Link,Ibrahim Koub...,3,"['owl', 'protege']"
+SPARQL Insert,Ibrahim Koub...,3,"['owl', 'sparql', 'protege']"
+Publishing an OWL File,Ibrahim Koub...,3,"['owl', 'ontology', 'protege']"
+how to create a semantic web management system?,semanticmania,11,"['ontology', 'protege']"
+What Can I use based in PHP similar to Java OWLAPI?,jane_135,1,"['owl', 'php', 'ontology']"
+Protege 4.1 turns skos:broader into annotation property,Gregsen,11,"['owl', 'skos', 'protege']"
+How to define an User-Defined Datatype in Protege 4.x?,Xing,49,"['owl', 'protege']"
+creating instance in Protege API,Ibrahim Koub...,3,"['owl', 'protege']"
+How to build an OWL 2 QL Otology in Protege 4.x?,Xing,49,"['owl', 'protege']"
+Choosing an adequate subject,killertoffy,11,"['subject-predicate-object', 'rdf']"
+how to inference from the fact that a property has no value,alexplorer,0,"['swrl', 'property', 'inference']"
+Problem getting equivalent classes with restrictions in SPARQL,davidpl1985,83,"['restrictions', 'equivalence', 'sparql']"
+Why is no result set returned for federated SPARQL query?,SaulTocsin,136,"['federated-query', 'sparql']"
+Why null pointer exception with Jena TDB getDefaultModel?,SaulTocsin,136,"['jena', 'tdb']"
+how to draw the relationship graph ?,summerjapan,13,"['linkeddata', 'rdf', 'semantic']"
+commit changes to owl using Protege API,Ibrahim Koub...,3,"['owl', 'protege']"
+Deleting an instance of a class using OWL API,Ibrahim Koub...,3,"['owl', 'owl-api']"
+Protege ontology structure,キキジキ,13,"['owl', 'protege']"
+Geonames: Querying the continent name for a place,metaweb87,824,"['geonames', 'sparql']"
+SPARQL for getting countries and cities from geonmes,SemanticWeb,21,"['sparql', 'geonames']"
+problems in saving individuals in ontology_jena,salem,59,['ontology']
+"""Datatype""Object Properties - Enumerations",crdev,51,"['datatypes', 'enumeration']"
+Questions about owl  class expression in SWRL rules,alexplorer,0,"['swrl', 'owl']"
+how can I get all results acrost from countrys from a search with dbpedia?,ashlee104,11,['dbpedia']
+jena throws QueryParsingException on correct but non-standard SPARQL,amarillion,25,"['jena', 'sparql', 'virtuoso']"
+Editing Existing Individual,Ibrahim Koub...,3,"['owl', 'ontology']"
+TDB and SDB concurrency questions,knightni,15,"['tdb', 'sdb']"
+Find path with SPARQL,artem,1,"['sparql1.1', 'sparql']"
+Public semantic Web Service repository/registry,Lucy,23,"['semanticweb', 'repository']"
+Is Semantic Web actually an expert system on the internet?,TooDoo,13,['semanticweb']
+SPARSQL Update Error.,Ton Rawat,26,"['jena', 'sparql-update', 'sparql']"
+Prorcessing DBpedia datasets,chux18,11,['dbpedia']
+RDF Question,hamsaeed,11,"['c#', 'rdf']"
+"Inferring, help!",Roberta Perrone,41,"['owl', 'ontology', 'inference']"
+"Alignment of an emotional, music and pictures ontology",debbieSemantic,10,['ontology-alignment']
+Ontologies are very helpful for which scientific discipline?,jojo,41,"['ontology', 'semantic']"
+Recommender systems built using SW & LD,Monika Solanki,519,"['linkeddata', 'semanticweb', 'matching']"
+What is the best way to define versioned properties in a graph?,David Riccit...,11,"['semanticweb', 'versioning']"
+Using SWRL Temporal Ontology in Protege 4.2,dotng,53,"['swrl', 'protege']"
+Web Application Tomcat + Jena TDB Storage,David Miranda,11,"['jena', 'tdb', 'java', 'cloud']"
+[closed] Where to get started in semantic web?,Rajeev,1,"['ontology-modelling', 'semanticweb']"
+Reasoning with OWL,rssadiq,13,"['owl', 'ontology', 'reasoning']"
+Vocabularies for describing modality components,William Greenly,4,['owl']
+how to retrieve a resource object from a model.,Mona,11,"['jena', 'resources']"
+What would be a decent way to represent links to ontology nodes?,Shubik,79,"['ontology', 'uri']"
+"""RDFa"" for images -> as RDFa is to HTML, what is to images?",mrdavidlaing,12,"['image', 'multimedia', 'rdfa']"
+"DBPedia - SPARQL to find a Persons nationality,Job titles and Companies associated",sreejiths,11,"['dbpedia', 'sparql']"
+Analyzing a framework in code level,web,113,"['jena', 'java', 'semantics']"
+[closed] ontology-rdf,rrk,25,['r2rml']
+relational data and ontology,rrk,25,['ontology']
+relation between rdf and wsdl,rrk,25,['rdf']
+distance between music entities and music recommendation,dpereira1,23,"['jena', 'relation']"
+Are schema.org ontologies used for building Sem Web apps?,Bruce Whealton,229,"['rdf', 'schemaorg', 'rdfa']"
+Extract data structure from OWL of RDF for Data Validation,Soheil,1,"['owl', 'validation', 'data']"
+storing ontologies in mysql,rrk,25,['ontology']
+Finding and crawling ontology websites,vandana,1,"['ontology', 'crawler']"
+[closed] What is Chinese medicine in pure green coffee bean?,CAPERS,7,['beginner']
+Executing SPARQL query on an ontology developed by Protege 3.4.8 using dotNetRDF,George Abraham,249,"['dotnetrdf', 'sparql']"
+How to automatically add a prefix with jena?,Christos,154,"['jena', 'prefix']"
+Where can I store RDF graphs?,rrk,19,"['rdf', 'triple-store', 'sparql']"
+How to encrypt and decrypt RDF graphs?,rrk,25,"['encryption', 'security', 'rdf']"
+[closed] Web service composition using RDF,rrk,25,['rdfa']
+[closed] how to get rdf view from relational database,rrk,25,['rdf']
+Why launching SemanticOverflow with too little users with zero reputation sucks?,dusoft,33,"['subjective', 'not-really-a-semantic-que', 'meta']"
+sparql select with custom ref:type class,dpereira1,23,"['label', 'sparql', 'rdfa']"
+"[closed] relation between ontology,rdf view and relational data",rrk,25,['rdf']
+Do I need Fuseki to acess TDB from Java Jena Code?,altruist,111,['fuseki']
+"How To Extract Access log file from DBPedia, DBTune or other dataset from Linked Data?",Hadi,11,"['linkeddata', 'dataset', 'dbpedia']"
+Search through RDF data. Predicates with same meaning,Luca Matteis,1,"['rdf', 'sparql', 'ntriples']"
+What is the software architecture of Apelon's TDE (Terminology Development Environment)?,MacGyver,95,"['development', 'ontology', 'concepts']"
+How can I make a query using variable filter value?,Iman,11,"['jena', 'arq', 'filter', 'query']"
+How do I use schema.org with N-Triples?,lmatteis,1,"['ntriples', 'vocabulary']"
+"Semantics of GROUP_CONCAT, part 2",Christos,154,"['jena', 'sparql']"
+Formatting SPARQL Results in dotNetRDF,George Abraham,249,"['dotnetrdf', 'sparql']"
+Joseki stalls when using multiple services,foobar,11,"['joseki', 'service']"
+Apache Jena TDBLoader - how to query after loading?,Charles Li,11,"['jena', 'semanticweb']"
+i need rdf views .i have used d2r server and generate .n3 file.is that .n3 file is rdf view ?,rrk,25,['rdf']
+how to access mysql database through rdfs ontology,rrk,25,['ontology']
+data integration,rrk,25,['rdf']
+How to import owl classes into the eclipse for android,freemat3,1,"['owl', 'android', 'java', 'eclipse']"
+how to convert result of sql query to rdf graph,rrk,25,['rdf']
+Question Answer System,sww,35,"['tools', 'question-answering', 'triples', 'ontology-modelling']"
+web service via rdfs ontology,rrk,25,['rdfs']
+Are there any ontology models thaat are present for the insurance domain?,ashwini,11,['ontology']
+Jena TDB and provenance and quad storage,altruist,111,['provenance']
+"Is there an open source, faceted browser based on SWT widgets?",Egon Willigh...,1,"['eclipse', 'faceted', 'browser', 'java', 'swt']"
+TDBLoader and Fuseki,altruist,111,['tdb']
+XPath in RDF Documents,vipincpy,39,"['xpath', 'xml', 'rdf-xml']"
+tutorial video of semantic web  and protege,Peyman 1,19,['protege']
+how to link an ontology after generating java code for it using protege,nivi,15,['ontology']
+conversion of Protege-OWL to protege database,nivi,15,['protege']
+What's wrong with my SWRL Rule.,Ton Rawat,26,['swrl']
+database backend for OWL using protege4.2 beta,nivi,15,['database']
+How to get DBPedia SPARQL results for subjects with a particular label,Harelix,13,"['dbpedia', 'sparql']"
+method to find similar strings,fateme.hosseini,15,['java']
+Which web server is better for Semantic Web?,Zia Shamszaman,17,"['web', 'semantic', 'server']"
+SPARQL Insert  data with data Type,Ton Rawat,26,"['triplestore', 'jena', 'sparql']"
+Balance b/w Scalability and Performance ? Possible?,Avinash,31,"['jena', 'sesame', 'scalability', 'triplestore', 'performance']"
+Problem with query in dotNetRDF,jasmine,-1,"['dotnetrdf', 'sparql']"
+[closed] my sparql query with prefix doesnot return data or error in dotnetrdf but works in protege,jasmine,-1,"['prefix', 'dotnetrdf', 'sparql', 'protege']"
+RDFS++ Reasoner,CompUser7,1,"['protege', 'reasoning']"
+Complex Types in Semantic Web Services,Lucy,23,"['services', 'ontology-modelling', 'ontology', 'semanticweb']"
+"finding related items, but more deeply related",nathanvda,11,"['sparql', 'virtuoso']"
+Correct querying D2RQ model in Jena,salamandra,31,"['jena', 'model', 'd2rq']"
+[closed] Double line to denote a concept,Hogel,11,"['graph', 'semanticweb']"
+log4j:WARN No appenders could be found for logger (com.hp.hpl.jena.util.FileManager),salamandra,31,"['jena', 'logging']"
+pubby not serving purl.org 302 partial redirect URIs,edan,263,"['triplestore', 'linkeddata', 'prefix', 'rdf', 'uri']"
+how to store RDF in database and retrieve it by TDB in Apache  jena,sample,7,['rdf']
+how to get rdf graphs from owl ontology?,rrk,31,['owl']
+[closed] is this rdf view?,rrk,25,['rdf']
+How to create a class in model to represent resource and property in jena RDF(using RDFS not OWL),sample,7,"['jena', 'rdf']"
+Any Example About Inferencing or reasoning by using  SimpleN3RulesReasoner?,mhdeyad,237,"['rdf', 'dotnetrdf', 'rdfs']"
+SPARQL 1.1 AND Operation,CHANDAN,131,['sparql1.1']
+How is the RDF based Heterogeneous Relational Database Integration work?,prof,65,"['relational', 'rdf', 'database']"
+Tools for creating RDF?,niran,379,"['rdf', 'rdfs']"
+Semantic Web PhD topic for HCLS/Bioinformatics/Oncology,krupesha,1,"['topics', 'health-care', 'inference', 'semanticweb']"
+[closed] I just built www.vocabs.org,Luca Matteis,1,"['rdf', 'ntriples']"
+extract a simple list of cities in a category,yonk,23,"['dbpedia', 'sparql']"
+Retailer using semantic markup,altruist,111,['rdfa']
+how to use SWRL on separated OWL/XML files?,peniya,9,"['swrl', 'owl']"
+Semantics from a Relational Database?,prof,65,"['relational', 'semantics', 'database']"
+RDF vocabulary for custom convertion,nikosdi,85,"['schema', 'rdf', 'ontology', 'rdfs']"
+Fuseki Error,altruist,111,['fuseki']
+Semantic Search System,Noor,31,"['taxonomy', 'ontology']"
+What is the best way to parse a natural language question to SPARQL query?,byteofprash,95,"['dbpedia', 'sparql']"
+RDF vocabularies for errors/warnings,Mansoureh,23,"['rdf', 'vocabulary']"
+Review Vocabulary (Ontology) deprecated terms?,leandro,61,['ontology-modelling']
+owl:allValuesFrom inference,ThomasFrancart,1,"['owl', 'modelling', 'ontology-modelling']"
+what to do after sdbload,glaserwu,5,['sdb']
+StringInputSource is missing in RDFLib 3.2.3. under Windows. How can I replace it?,paxRoman,222,"['sesame', 'python', 'rdflib']"
+Modelling Business Processes with Ontologies,Botticelli,57,['ontology']
+How to express relationships in RDF?,prof,65,['rdfs']
+how to express foaf:knows for individuals without this property?,edan,263,"['owl', 'sparql', 'construct', 'ontology-modelling']"
+Issue regarding integration of Lucene and DataSet,umercis,1,"['jena', 'lucene', 'larq', 'full-text', 'sparql']"
+Relationship between RDF data and Ontology,deshdeepak,11,"['rdf', 'ontology']"
+Retrieve data from dbpedia using jena in eclipse,yola3467,42,"['jena', 'dbpedia', 'java', 'sparql']"
+can not execute a query use MySQL since table 'triples' lost,glaserwu,5,"['query', 'triples', 'sdb', 'dataset']"
+"Java heap space with Jena TDBLoader, when loading 3GB TTL",Omama,11,['tdb']
+Fuseki inconsistent results,goutham vel,1,"['jena', 'fuseki']"
+Owl instance testing with Jena,Vegard,1,"['jena', 'owl', 'reasoning']"
+Add in Triples to jena Query object (java),Dev-Deverton,41,"['jena', 'java', 'sparql']"
+Individuals of OWL Time Instant,usamytch,222,"['owl', 'iri', 'time']"
+find nodes linked by transitive predicates with rdflib,jjon,3,"['python', 'rdflib', 'transitivity']"
+How do I reference a file with individuals for ontology on purl.org?,mksplg,1,"['owl', 'publishing', 'imports']"
+Application of Owl To Relational database mapping?,huma,11,['semanticweb']
+How does an SPARQL endpoint work?,krisho007,1,"['sparql-endpoint', 'sparql']"
+AllegroGraph CLI for Prolog execution?,Weinan Qiu,1,['allegrograph']
+How can I integrate statistical linked datasets from the LOD ?,Rajesh Mahule,11,"['lod-cloud', 'lod']"
+SPARQL query to retrieve all related rdf graphs!,Santosh,41,"['sparql1.1', 'rdf', 'sparql']"
+how to insert the content of the xml file to existing RDFschema using java,roger,9,['rdf-xml']
+How to present the most relevant entities?,amareknight,65,['semanticweb']
+Unable to query d2rq ttl file from jena,Kaushik Shre...,1,"['jena', 'd2rq']"
+[closed] Future trend in semantic web ...,dipeshjoshi,9,"['semantic', 'semanticweb']"
+Inference and individuals,lostnation,11,"['owl', 'applications', 'inference', 'protege']"
+Related keywords to concepts !,phenix_dz,1,"['search', 'ontology', 'keyword', 'metadata']"
+How to generate rdf triples from unestructured text (and vice versa)?,leandro,131,"['rules', 'nlp', 'rdf', 'swrl']"
+SOLR RDF Integration using SARQ,altruist,111,['solr']
+[closed] indexing in whooshproblem,halagamal,31,['python']
+OWL-S and semantic similarity,El-Hadj Chik...,1,"['owl', 'semantic']"
+complex aggregation in SPARQL,RogerDeFrance,105,"['aggregates', 'sparql']"
+Annotating instance with concept from RDF,samer,1,"['owl', 'rdf', 'annotation']"
+Using SAWSDL to annotate an OWL ontology of services,Nasreddine,227,"['ontology', 'annotation']"
+Error while creating SPARQL motion script,nivi,15,['topbraid-composer']
+Do we need ontology for making Linked data?,samuel,199,['linkeddata']
+how to build a dynamic metadata management system like freebase?,dinggz1982,11,"['schema', 'metadata']"
+How do you decide if owl:sameAs is the right comparison metric between two classes?,Abhishek Shi...,226,"['rdf', 'rdfs', 'linkeddata', 'owl']"
+schema.org: get properties of a type,Mansoureh,23,"['rdf', 'schemaorg', 'sparql', 'rdfs']"
+Using HAVING clause with MAX function in SPARQL,George Abraham,249,"['rdf', 'sparql']"
+How to get Dbpedia resource details using Jena?,talha06,45,"['sparql-endpoint', 'jena', 'dbpedia', 'sparql', 'resources']"
+Is there something like a cache solution implemented with Sesame Native store?,tosskoll,35,['sesame']
+How can i use genereted Java Code by Protege 4.2,Dev-zero,11,"['jena', 'owl', 'java', 'protege']"
+Query on restricted property returns no result,piefi,3,"['restrictions', 'property']"
+RDF To OWL,varma,1,"['owl', 'rdf']"
+Nonmonotonic rules engines,Nasreddine,135,"['rules', 'reasoning']"
+Integration of dataset using Linked Data Integration Framework tool (LDIF),rmahule,11,"['web', 'semantic']"
+Problem with inference in a  SPARQL  Sub queries,jacky,75,"['sparql', 'subquery']"
+Delete triples from TDB using Fuseki,altruist,111,['fuseki']
+Weather OWL ontology,usamytch,222,"['owl', 'ontology']"
+Virtual RDF From HBase Data,kiranv3,68,"['hbase', 'rdf']"
+change these sparql query to jena code[java] to make http request to dbpedia,meemank,-5,"['jena', 'java', 'sparql', 'virtuoso']"
+display the sparql result in html form when query from dbpedia,meemank,-5,"['dbpedia', 'html', 'jsp']"
+ontology partitioning tools,Alina Danila,21,"['ontology', 'ontology-mapping']"
+XSDs referring to SKOS-definitions?,Steinar,27,"['xml', 'skos', 'modelling']"
+Movie genre from dbpedia,Charles Carm...,11,['dbpedia']
+Semantic DataBase Integration,kiranv3,108,"['query', 'ontology', 'semantic', 'database']"
+D2RQ: Lexical error exception,salamandra,31,['d2rq']
+[closed] display sparql result in html format,meemank,-5,"['jena', 'json', 'html', 'dbpedia', 'sparql']"
+how to generate a Jena Model usign FOAF?,leandro,61,"['jena', 'foaf']"
+SparqlResultSet to Graph,mhdeyad,237,"['dotnetrdf', 'rdf']"
+Recent Tends In Ontology Alignment,kiranv3,68,"['ontology', 'research']"
+"OWLAPI, parse Manchester syntax mixing full and abbreviated URIs in an expression",trylks,73,"['uri', 'owl-api', 'syntax']"
+Property loading as annotation,samerbak,63,"['owl', 'rdf', 'ontology']"
+Ontology Alignment APIs,kiranv3,68,"['ontology-alignment', 'api', 'algorithm', 'owl']"
+Alignment Algorithm For Properties?,kiranv3,68,"['api', 'ontology-alignment', 'ontology']"
+Can't Align The Following Ontologies With Alignment API,kiranv3,68,"['owl', 'api', 'ontology', 'ontology-alignment']"
+extracting abstract and external wiki link from dbpedia page using sparql,meemank,-5,"['dbpedia', 'sparql']"
+[closed] Modelling data in semantic web using Protégé,Maysaa,-5,"['semantic', 'homework']"
+Execute a rule with jena,Rihab,31,"['jena', 'swrl', 'ontology']"
+Ontology Alignment Quickstart Tools?,kiranv3,68,"['beginners', 'open', 'tools', 'ontology-alignment']"
+Jena GRDDL code example : convert xml to rdf,hatimgm,11,"['jena', 'rdf-xml', 'rdf', 'grddl', 'xml']"
+How to connect a simple page of HTML+RDF and OWL ontology using Jena ?,sanaajara,1,"['owl', 'rdf', 'reasoning']"
+how to print Resultfrom ontology?,halagamal,31,['rdflib']
+COMA++ 3.0 Community Edition,kiranv3,68,"['api', 'resources', 'tutorial']"
+Incompatibility of Pellet 2.3.0 with OWL API 3.4.3?,Nick Gordons,11,"['owlapi', 'java', 'pellet', 'compatibility', 'reasoner']"
+Local triple store can be used with jena doesn't need any server installation,Umutcan,533,"['triplestore', 'tdb']"
+Dbpedia-spotlight missing resource,Adel,11,"['question-answering', 'dbpedia']"
+difference between data in RDF and data ABox,abir,31,"['abox', 'rdf']"
+RDA ontology,Hibernator,11,['rdf']
+sparql with d2r server,lolo,11,['d2r-server']
+Triplestore with LARQ (Lucene full-text support)?,Barna,626,"['jena', 'larq', 'full-text', 'sparql']"
+how to write OWL ontology to a file and to console,M_shujah,11,"['jena', 'semanticweb']"
+Querying www.movieontology.org,Bonson,32,"['jena', 'query', 'dbpedia']"
+a simple use case of an OWL 2 ontology,abir,31,"['abox', 'owl2', 'tbox', 'usecases']"
+Protege SPARQL engine,H_M,53,"['sparql', 'protege']"
+Make only the selected individuals distinct in Protege,agalazis,1,"['instance', 'protege']"
+Jena-Combining Two Ontologies,kiranv3,108,"['jena', 'union', 'ontology', 'rdf']"
+SPARQL Reasoning Using An Aligned Ontology In Jena,kiranv3,68,"['jena', 'ontology-alignment', 'rdf', 'inference', 'sparql']"
+"Problem to run pellet reasoner in owlapi, how can I fix it?",Allan,1,"['owlapi', 'reasoner', 'ontology', 'pellet']"
+SPARQL Endpoint-Reasoner Communication,kiranv3,108,"['sparql-endpoint', 'reasoner', 'pellet', 'semantic']"
+Jena-Which OntModelSpec To Use,kiranv3,108,"['jena', 'query', 'ontology', 'sparql', 'reasoner']"
+Modifying A SPARQL Query Using A Reasoner And Ontology,kiranv3,68,"['query', 'rdf', 'sparql', 'ontology']"
+Semantic Database Integration -How Many At a Time,kiranv3,108,"['ontology', 'semantic', 'database']"
+calculate number of subclass or superclasses which are concepts(classes),fateme.hosseini,15,"['ontology', 'rdfs-subclassof', 'jena']"
+How to make two individuals of two diffrent classes with the same name,rahma,11,"['namedindividual', 'protege']"
+d2r server,cloe,-1,['d2r-server']
+Pelase Help me making Inference on FuXi...,Rafael Brito,5,"['python', 'rdflib', 'inference', 'inferencing']"
+Fuxi + rdflib - Making Inference based on literal values,Rafael Brito,5,"['rdflib', 'inference', 'semanticweb']"
+predicate-object list does not work,Çağdaş Ol,183,"['ontology', 'dbpedia', 'sparql']"
+semantic knowledge Management,leticiarezende,11,"['knowledge-base', 'semanticweb', 'sql']"
+Country ownership of a structure,leovingi,23,"['dbpedia', 'sparql']"
+Creating typed literals with jena rules,defonion,11,"['jena', 'rules', 'datatypes']"
+use sparql query in a function,halagamal,31,"['python', 'sparql', 'sparqlwrapper']"
+Documents about Inference,Rafael Brito,5,"['inference', 'semanticweb']"
+Searching data using ontology in semantic web,Andi Parlind...,1,['ontology']
+Jena sparql update doesn't execute,novik,11,"['jena', 'arq', 'rdf', 'java', 'sparql-endpoint']"
+uploading a new dataset onto Fuseki,H_M,53,"['jena', 'fuseki']"
+Creating individuals with someValuesFrom,usamytch,222,"['owl', 'inference']"
+merge concepts and individuals from two ontologies,marec,1,['ontology']
+How to define URIs for data formats (for instance JSON schemas)?,pdehaye,11,"['json', 'uri', 'schema']"
+Retrieving music genre from artist DBPEDIA,alvin,23,"['query', 'dbpedia', 'sparql']"
+annotation a temporal fragment of a video using RDFa,aleray,1,"['html', 'resource', 'rdfa', 'rdf']"
+How to find datasets that use a specific ontology?,Michahell,55,"['symmetric', 'linkeddata', 'ontology', 'transitivity', 'dataset']"
+GRDDL+Security exception :(,Emilia,1,"['grddl', 'rdf', 'jena']"
+Virtuoso SPARQL bug with literals,utapyngo,1,"['virtuoso', 'sparql']"
+Uploading dbpedia mappingbased_properties_en.nt to Sesame 2.7,Todor Kolev,67,"['sesame', 'rdf', 'dbpedia', 'n3']"
+[closed] Benefits with how to create your own website?,BERNIER,0,['web']
+Looking for RDFS (not OWL) ontology examples,zhlsk,13,['rdfs']
+Creating sparql including filters or group by with rdf-agraph,Çağdaş Ol,183,"['allegrograph', 'ruby']"
+How to express SQL CHECK Like constraint in OWL?,prof,65,['owl']
+How to express the SQL Index constraint in OWL?,prof,65,['owl']
+Can I use .N3 files with Jena?,astoriarcs,1,"['jena', 'n3', 'semanticweb', 'ontology']"
+Book Data in LOD,kushwaha nidhi,200,"['linkeddata', 'rdf']"
+how to retrieve Social Network using SPARQL,kushwaha nidhi,234,"['linkeddata', 'rdf', 'social-networks', 'sparql']"
+the existence of an ontology for computer science,youcef,1,['ontology-modelling']
+property path with 2 predicates and 2 levels,Jan678,11,"['predicates', 'property-paths']"
+[closed] how to create my own RDF storage  & SPARQL endpoint,kushwaha nidhi,242,"['sparql-endpoint', 'jena', 'rdf', 'fuseki']"
+how to store RDF triples locally,kushwaha nidhi,242,"['jena', 'arq', 'rdf', 'sparql']"
+how to start using rdf with apache jena on net beans?,chintu24x7,1,"['jena', 'rdf', 'java']"
+semantic clustering for Hotel web services,Satty,-1,['python']
+Semantic clustering of image search results?,Satty,-1,['python']
+SDB support for quads,nedhead,-1,"['quads', 'n-quads', 'sdb', 'named-graph']"
+What should be under URI for entities?,Roman,137,"['rdflib', 'rdf', 'uri', 'uriref']"
+sesame in my JAVA IDE,kushwaha nidhi,242,"['sesame', 'arq', 'rdf', 'java', 'sparql']"
+Virtuoso server [mis]understandings,kevinyeandel,51,"['sparql', 'virtuoso']"
+RDF huge storage,kushwaha nidhi,234,"['triplestore', 'rdf', 'java', 'semanticweb']"
+How to setup DBpedia 3.8 extraction framework on windows OS ?,cusion,11,['dbpedia']
+How to query useful object knowledge to accomplish complex task?,Ricky,87,"['semanticweb', 'reasoning']"
+Error parsing OWL file with Jena,ascoril12,1,['jena']
+"typeof=""SearchResultsPage"" errors with product offers schema.org",hatescheese,23,['schemaorg']
+Sesame API over proxy,kushwaha nidhi,200,"['sesame', 'rdf', 'java', 'semanticweb']"
+Object Property multiple chain,alrama,11,"['owl', 'reasoning']"
+How to build a Semantic Search Engine,DimEva,11,"['python', 'search', 'semantic', 'semantics']"
+looking for a correct superPropertyOf (chain),alrama,11,"['owl2', 'chaining']"
+Query over DatasetGraph,nedhead,-1,['query']
+How to map RDF/XML data to java objects?,shile,11,"['jena', 'rdf-xml', 'java']"
+Dbpedia data storage,kushwaha nidhi,242,"['sesame', 'linkeddata', 'triplestore']"
+owl ontology,raj529,1,['owl']
+Multi algorithm ontology mapping tool?,newbie14,47,"['ontology', 'ontology-mapping']"
+SPARQL query to retrive specific entities?,Rose,35,"['rdf', 'sparql']"
+Timestamp of relation in ontology,Çağdaş Ol,183,"['ontology-modelling', 'reification', 'time']"
+NoSuchElementException in jena Riot TokenizerText,ascoril12,1,"['jena', 'riot']"
+"Expressing SPIN with OWL ""Example""",Elizabeth Elven,255,"['owl', 'spin']"
+SparqlResultSet giving {“The remote server returned an error: (400) Bad Request.”},cejju,1,"['sparql-endpoint', '.net', 'sparql']"
+Mapping an owl:class to a property,Areeb,1,"['dbpedia', 'ontology-mapping', 'owl-s']"
+Drawing inferences from an OWL List,gopalkoduri,11,"['owl', 'list', 'inference']"
+newbie: query dbpedia image with php,Jo Pfeffer,11,['dbpedia']
+how to fetch resources that depends on path value from SPARQL?,kushwaha nidhi,242,"['jena', 'ontology', 'sparql', 'semanticweb']"
+Check if a class exist using OWL API,samerbak,55,['owl-api']
+how to enter skos hierarchy into Sesame workbench??,kushwaha nidhi,234,"['sesame', 'rdf']"
+how can i do to extract needed properties for a class?,fateme.hosseini,15,"['ontology', 'jena']"
+reasoning tasks.,tota,1,"['reasoning', 'sparql']"
+how to upgrade sesame  2.7.1 to 2.7.2,kushwaha nidhi,200,"['sesame', 'triplestore']"
+jena don't report conflict with Resource and Literal,user-879 (go...,3,"['jena', 'validation', 'rdfs']"
+owl file queries using sparql wrapper,halagamal,31,['owl']
+pellet ICV,coucou,21,['pellet']
+[closed] stardog configuration,coucou,21,['stardog']
+How can I define Unique selling points (usp) with microdata?,westworld,1,"['schemaorg', 'microdata', 'goodrelations']"
+RDF to support tagging,blech,11,['tagging']
+OWL Protege and subPropertyOf rdfs:label,JohnMark13,83,"['owl', 'ontology', 'label', 'protege']"
+Export sparql query to a file Virtuoso,mathrb,21,"['sparql', 'virtuoso']"
+how to update sesame 2.7.2 directly using different endpoint,kushwaha nidhi,200,"['sesame', 'linkeddata', 'sparql-update', 'sparql-endpoint', 'triplestore']"
+Virtual host settings in Apache for serving ontologies using the hash namespace recipe,Monika Solanki,509,"['best-practice', 'ontology', 'server']"
+full text search with REGEX,manabi,13,"['jena', 'java']"
+Loading quads into SDB,nedhead,-1,"['quads', 'sdb']"
+full text search by index,manabi,13,"['jena', 'sparql']"
+How to indicate the priority of a PRD(Production Rule Dialect) rule in MPS(Mixed Presentation Syntax)?,Xing,39,['rif']
+date extraction / tagging in french ... or english,cless91,1,"['date', 'text_analysis', 'tagging']"
+How to covert text to RDF Query,SidHaz,-1,['converter']
+How to use rdf entailment?,Rose,45,"['rdf', 'sparql', 'semanticweb']"
+sesame output visualization,kushwaha nidhi,200,"['sesame', 'visualization', 'linkeddata']"
+Seperate ABOX for different individuals,samerbak,55,"['owl', 'ontology']"
+why duplicated statements inferred after importing another ontology in protege,hsl,21,['protege']
+Ontology not getting data from imported ontology,samerbak,55,"['imports', 'owl-api']"
+discovering relationship among class and property of ontology,buet12,1,['ontology']
+ONTOLOGY+DOTNET+MS SQL,raviteja_bat...,-5,"['ontology', 'sql']"
+how to map keywords to ontology?,zidane5364845,11,"['ontology', 'java', 'mapping']"
+Do i Need Ontology within the my website,raviteja_bat...,-5,['ontology']
+Comparing two dateTime data properties on Protege,OntologyHell,11,"['date', 'owl', 'protege']"
+log4j:WARN No appenders could be found for logger (com.hp.hpl.jena.util.FileManager).,MagB,37,"['jena', 'query', 'sparql']"
+How to load rdf data to bigdata using nanosparqlserver,rosebeck,115,"['sesame', 'rdf', 'bigdata', 'semanticweb']"
+DL Query Parser,samerbak,63,"['dl', 'owl-api']"
+How to set persistence provider in Empire,Mahek Hanfi,11,"['empire', 'rdf', 'java', 'semanticweb', 'orm']"
+[closed] PLZ HELP ME abt ontology,raviteja_bat...,-5,['ontology']
+Error while creating JenaOWLModel from URI,Arize,1,"['api', 'java', 'protege']"
+Controlled Vocabulary & Structured Vocabulary,samerbak,55,"['taxonomy', 'ontology', 'vocabulary']"
+how to retrieve Object Properties in Dbpedia,kushwaha nidhi,200,"['property', 'dbpedia', 'sparql']"
+Sparql Two Graph Match,Baig,11,"['query', 'sparql']"
+GoodRelations product URL,altruist123,1,['goodrelations']
+segmentation fault in virtuoso,Maria Jackson,69,"['rdf', 'semanticweb', 'virtuoso']"
+what does domain and range tells about a property?,kushwaha nidhi,200,"['rdfs-domain', 'property', 'sparql']"
+save ontology to a local file,fateme.hosseini,15,"['jena', 'ontology']"
+Editing webservice's Input's URI in owl-s file using OWL-S API,Awsdib,1,"['owl', 'owl-api', 'service', 'web']"
+How do i extract synonym or equivalent term from RDF usin jena?,rashed,11,"['jena', 'sparql']"
+Fetching chained relationships with SPARQL (Mulgara),gattu marrudu,11,"['union', 'sparql']"
+Parsing a SPARQL query,amin_b,256,"['jena', 'arq', 'sparql']"
+add sameAs with URI,Arize,1,"['jena', 'owl-sameas', 'uri']"
+missing information in dbpedia live updates,vinod k,3,['dbpedia']
+How to resolve RiotNotFoundException in jena?,shafi,11,"['jena', 'ontology', 'protege']"
+java.lang.OutOfMemoryError: Java heap space error in fuseki,shim,11,"['fuseki', 'bulk_loading']"
+Jena - rule engine agenda,Michael Gibson,11,"['jena', 'rules', 'inference']"
+Apply SWRL Rule with Negation,Andreas,71,"['swrl', 'owl', 'transformation', 'protege']"
+probelm with excuting semantic web service from it's owl-s files,Awsdib,1,"['owl-api', 'service', 'owl-s']"
+How to get equivalent class using SPARQL?,rashed,16,"['jena', 'sparql-endpoint', 'sparql']"
+Running inferences on jena,Zucca,85,"['jena', 'rdf', 'inference']"
+Normalised google distance versus wordnet,newbie14,47,['semantic']
+SPARQL using dotNetRDF return empty result,vikifor,61,"['c#', 'dotnetrdf', 'sparql']"
+How do write the codes for ontology matching?,Samira,3,"['ontology', 'matching']"
+Error in import libraray in ontology alignment,Princes,11,"['ontology', 'matching']"
+Systems for backward chaining and derivations.,Niranjan,11,['inference']
+determine object property and data property for a class,fateme.hosseini,15,"['ontology', 'jena', 'rdfs-subclassof']"
+[closed] Make triples from dependency graph,afro54,9,"['nlp', 'ontology', 'grammar']"
+Comparing ontology mapping results between different algorithm,newbie14,53,"['ontology-alignment', 'semanticweb', 'ontology-mapping']"
+ontology summarization,fateme.hosseini,15,"['ontology', 'jena']"
+Running similarity flooding algorithm,newbie14,53,"['ontology-alignment', 'semanticweb', 'graph-structure']"
+Cannot import .rdf via ontobuidler,newbie14,53,['ontology']
+ontology evaluation,kalaramar,-1,['validation']
+[closed] Can we rank for seo specialist (huge list of keywords)?,jjacobhenryy,5,['seo']
+Loading Splitant in Sesame,kushwaha nidhi,242,"['sesame', 'triplestore', 'rdf']"
+[closed] Get Null pointer exception,rashed,16,"['jena', 'owl', 'java']"
+How to get Equivalent class depends on user input?,rashed,7,"['jena', 'java']"
+Use of Sesame API after Programatic chunking,kushwaha nidhi,234,"['sesame', 'rdf', 'parsing']"
+How to create an RDF model backed by TDB,nawaf,23,"['jena', 'tdb']"
+Using Coma++ for structural mapping.,newbie14,47,['ontology-mapping']
+Query for linked articles in wikipedia,lenny2k,11,"['query', 'dbpedia', 'sparql']"
+Store RDFS in database (ARC2),venkat,1,"['arc2', 'rdfs', 'ontology']"
+"Summary document(s) on types of reasoning possible with RDFS, OWL and OWL 2",Monika Solanki,519,"['owl2', 'owl', 'reasoning', 'rdfs']"
+Which dump is fastest to import in open source virtuoso - n3/nt/xml?,arthurlogilab,53,"['rdf-xml', 'n3', 'virtuoso']"
+Semantic feature of a semantic search,vic4ever,23,['search']
+How to convert OWL API Objects to Java objects?,beerpit,11,"['owlapi', 'owl', 'java', 'owl-api']"
+Pellet stops classifying after 30% completion,Monika Solanki,519,"['ontology', 'pellet', 'classification']"
+OWL Ontology Predicate Logic with Jena,aether,1,"['jena', 'owl', 'ontology']"
+[Sesame] Remote repositories and transaction handling,toomz,21,"['sesame', 'owlim', 'repository']"
+"BenchMarking between Jena, Sesame and OSF",ascoril12,1,"['jena', 'sesame', 'benchmark']"
+what should be used to describe a story or news?,calendarw,1,['semanticweb']
+Alternatives to Semantic Media Wiki?,xchaotic,1,"['rdf', 'sparql']"
+Re-use of terms from ontology.,__XOR__,156,"['ontology-modelling', 'inference', 'imports']"
+"SPARQL Query to delete URI as subject, pred or object",FlyOn,407,"['sparql1.1', 'uri', 'sparql']"
+[SPARQL-DBpedia] What you see on an Airport?,Azeem,11,"['dbpedia', 'sparql']"
+What should be a relation that is SAME_AS or HAS_TYPE.,VincentBlouin,21,"['relation', 'same-as']"
+SPARQL - best way to select instances of class and subclasses in 1 query,Flion,810,"['query', 'sparql1.1', 'subquery', 'rdfs-subclassof', 'instance']"
+"Get an error using jena ,sparql and servlet",rashed,7,"['jena', 'sparql']"
+web mining,jai,9,['project']
+Proper way of querying Virtuoso Jena,drugoy,77,"['jena', 'rdf', 'java', 'sparql', 'virtuoso']"
+Best rdf store for a research project,Nasreddine,165,"['triplestore', 'rdf']"
+D2rq and wordpress database,TheBeefEater,11,"['linkeddata', 'rdf', 'database', 'd2rq', 'protege']"
+Selecting specific multiple input from List,MagB,37,"['jena', 'query', 'list', 'sparql', 'java']"
+Significance reification expressed by using blank nodes?,Jannat Arora,187,"['rdf', 'semantic', 'semanticweb', 'reification']"
+Image annotation tool,rfonto,33,"['image', 'ontology', 'tools', 'annotation']"
+build Arabic ontology,miaad,11,"['linkeddata', 'knowledge-representation', 'ontology', 'rdf']"
+Sparql Filter a simple query from another or better ways,Lupo D Ghiaccio,1,"['filter', 'query', 'sparql', 'semanticweb']"
+semanticweb.com search algorithmic weighting,wmartinusa,11,"['search', 'meta', 'answers']"
+[closed] How to convert postgres database to RDF form?,Maria Jackson,69,"['rdf', 'semanticweb']"
+Querying dataproperties between some specific values,MagB,37,"['jena', 'owl', 'java', 'sparql', 'protege']"
+[closed] Making SPARQL query from English Text,ascoril12,-1,"['nlp', 'question-answering', 'sparql']"
+Does Jena TDB support reification,rosebeck,173,"['rdf', 'semantic', 'semanticweb']"
+[closed] semantic web and problem of web without that,baran,-9,['semanticweb']
+[closed] Open source datasets which support reification,rosebeck,175,"['rdf', 'semanticweb', 'virtuoso']"
+[closed] semantic web can be usefull for  problem of web in developing country?,baran,-9,['semanticweb.com']
+List of lexical based ontology mapping tools,newbie14,53,"['semanticweb', 'ontology-mapping']"
+Reification with OWL,Maatary,11,['reification']
+Get equivalent classes in Jena,rashed,26,"['jena', 'owl', 'ontology', 'java', 'reasoning']"
+How can this be modelled on Protege?,jamesFounder,9,"['owl', 'protege']"
+How to get rid of extra Debugging info in OpenRDF Sesame?,vijender,21,['sesame']
+Video Annotation and Retrieval Using Semantic Web Ontologies,An1234,11,"['sesame', 'jena', 'ontology', 'semanticweb']"
+Built in Video Ontology,An1234,11,"['ontology', 'semanticweb']"
+WSDL To OWL,OscarGomez,11,"['owl', 'parsing']"
+"Extract nested data such onProperty, someValuesFrom ..etc from OWL ontology by using SPARQL",Abdullah,-1,"['jena', 'owl', 'rdf', 'sparql', 'reasoning']"
+[closed] Good litterature on semantic web for online stores,minihessel,1,"['web', 'semantic', 'store']"
+Modeling machine learning and statistics results with owl,firion,11,"['ontology', 'machine-learning']"
+"Choices in Architecture, Design, Algorithms, Data Structures for effective RDF Reasoning and Querying in a Big Data Environment",davekrn,1,"['linkeddata', 'linkeddata-api', 'rdf', 'rdfquery', 'bigdata']"
+Java heap space error while loading large ontology in jena,Kanchan,1,['jena']
+Enumerating OWL sub-concepts,azerrima,11,"['owl', 'tableaux', 'reasoner']"
+what is the difference between An Instance and Subject?,kushwaha nidhi,234,"['linkeddata', 'triples']"
+How to integrate my OWL file with my HTML file?,Aakash Agarwal,3,"['owl', 'reasoner', 'protege']"
+Articles about positive sides of MicroData and GoodRelations,minihessel,1,"['web', 'semantic']"
+Clustering SPARQL result set,blinkettaro,27,"['cluster', 'semanticweb', 'sparql']"
+What language this site is written in?,Eason,1,['semanticoverflow']
+JENA: Sparql query ERROR,blinkettaro,27,"['jena', 'java', 'sparql']"
+how to load ontology in java,ainahijazi,-3,"['eclipse', 'sparql-functions']"
+functional properties,fateme.hosseini,15,"['jena', 'ontology']"
+How express hierarchy between concepts in SKOS ?,maya,75,"['skos', 'taxonomy']"
+[closed] SPARQL query - Ramzi.,Ramzi Tunisien,-7,"['query', 'sparql']"
+Beginner's guide to Graph Search,CluelessPadawan,11,"['graph', 'search', 'semantics', 'sql']"
+How to store data in an ontology and retrieve results?,An1234,11,"['sparql', 'jena', 'ontology', 'semanticweb', 'rdf']"
+Result of SPARQL query in URI,Aakash Agarwal,3,"['sparql', 'semanticweb']"
+Why I cannot parse IMDB?,Zucca,85,"['schemaorg', 'microdata', 'parsing']"
+auto tagging of a content text,pinuzzo,11,"['ontology', 'semanticweb', 'tagging']"
+WSDL Ontology,OscarGomez,11,"['services', 'owl', 'ontology', 'web']"
+"parsing owl/rdf ontology and generate class,property and relationship from the ontology",buet12,-1,"['jena', 'owl', 'rdf']"
+Query SPARQL for DBpedia,ergutta,1,"['dbpedia', 'sparql']"
+Find out missing property values,Amar,21,"['dbpedia', 'sparql']"
+Which DBPedia Influence Properties Should I Use?,Rob Myers,1,"['dbpedia', 'sparql']"
+examples of sparql and skos,jojo,47,"['query', 'skos', 'sparql']"
+OntTools FindShortestPath,blinkettaro,27,"['jena', 'java', 'sparql']"
+How to Query over my OWL file using PHP ?,Aakash Agarwal,3,"['owl', 'sparql1.1', 'php']"
+SPARQL : query to get the taxonomy,blinkettaro,27,"['jena', 'dbpedia', 'sparql']"
+sparql query for Skos ontology in java,jojo,47,"['query', 'sparql1.1', 'skos', 'sparql', 'java']"
+JENA : difference between Schema and Data,blinkettaro,27,"['jena', 'java', 'sparql']"
+How to get List  of countries by population using SPARQL,paviholla,1,['sparql']
+is it possible to combined named Graph and OWL ?,Maatary,39,"['owl2', 'owl', 'named-graph']"
+skos:definition property,jojo,47,"['rdf', 'skos', 'sparql']"
+"How to avoid timeout, i.e., do time-unlimited query, on Virtuoso SPARQL endpoint?",vijender,21,"['dbpedia', 'sparql', 'virtuoso']"
+How to automatically generate new instance identifier in INSERT query on Sesame 2.7.7,FOPA Léon Co...,67,"['sesame', 'rdf', 'java']"
+How does Facebook link shared videos to FB Pages?,Parsa,1,"['same-as', 'facebook']"
+I need advice building my first ontology; best practice is appriciated,billy,-1,"['ontology-modelling', 'ontology']"
+How do I change URIs/prefixes using SPARQL,gyandroid,11,"['jena', 'tdb', 'sparql']"
+Protege sparql - referencing object properties,Mongkok,1,"['sparql', 'protege']"
+working sparql with distinct on endpoit but not working when calling php,jose cabra,1,"['php', 'sparql']"
+A problem in my code while extracting a part of Ontology,rfonto,87,"['jena', 'query', 'ontology', 'java', 'sparql']"
+how to create a fulltext function,mimouza,17,"['sparql1.1', 'sparql', 'arc2']"
+wrong inference,billy,-1,"['ontology-modelling', 'inference', 'protege']"
+Does Schema.org has a type for educational program?,Tasawer Khan,3,['schemaorg']
+How to get UNION and OPTIONAL Triple Pattern Groups from a SPARQL query,saleem,1,['sparql']
+OWL 2  modelling issue : expressing sameAs on object property values,Philippe,1,"['owl2', 'ontology-modelling', 'property']"
+Building adjacency lists with RDF data,chromeeo,1,"['process', 'graph', 'rdf', 'relation', 'ntriples']"
+"Why cannot load a local owl-file using the function ""manager.loadOntologyFromOntologyDocument(file)""?",Aldebrando,1,"['owl', 'ontology', 'java']"
+how to know if 2 entities have the same topic in dbpedia,mimouza,17,"['dbpedia', 'sparql']"
+building a semantic web,ddk,-1,"['development', 'web', 'semantic']"
+where can i find ontologies in rdf format ?,semanticwhacko,309,['ontology']
+[closed] A topic to do my thesis on Semantic Web,Chris Njogu,1,"['topics', 'semantic', 'semanticweb']"
+what does a Rdf parser do ?,semanticwhacko,309,"['rdf', 'beginner']"
+GUI ontology (java),Nick77,-3,"['jena', 'gui', 'sparql', 'protege']"
+DataSet vs DataSource,Maatary,236,"['jena', 'tdb', 'dataset', 'data-sources', 'arq']"
+Selecting resources has not the same number of resutls as a count in SPARQL Endpoint in DBpedia,MatthieuK,1,"['sparql-endpoint', 'dbpedia', 'sparql']"
+create connection between java and MySQL to build database for semantic web,Miaad,11,"['jena', 'java', 'semanticweb', 'mysql']"
+How can I force QueryExecutionFactory to call FindNG in sparql,Yan,109,"['jena', 'sparql']"
+"what is the difference between Concept, Instance and individual ?",jojo,47,"['owl', 'rdfs', 'skos', 'instance', 'concepts']"
+Publishing my FOAF File,Bonson,40,['foaf']
+OWL or SKOS ?,jojo,47,"['owl', 'skos', 'semanticweb', 'modelling', 'ontology-modelling']"
+Querying to other ontologies,blinkettaro,27,"['sparql-endpoint', 'sparql']"
+Creating an Environmental compliance management Ontology in Dbpedia and using SPARQl to query the data,user-946 (ya...,1,"['rdf', 'sparql']"
+"How to connect Virtuoso using Jena ,Servlet and Sparql?",rashed,16,"['jena', 'sparql']"
+"SPARQL in Jena: How set a schema to all ""Set"" and get inference?",Celsowm,486,"['sparql', 'jena', 'schema', 'inference']"
+[closed] semantic web aplication,cintuliak,1,"['owl', 'rdf', 'java']"
+How to find the plural form of a word with stanford parser?,chiara 1,1,"['parsing', 'java']"
+Creating a RDF Store using custom schema,Newbie07,33,"['rdf', 'sparql', 'schema']"
+Returning an instance from a jena rule,Önder,11,['jena']
+is it require to classify ontology in protoge ?,semanticwhacko,309,['protege']
+Implementation ontology with Netbeans,sarragaloui,5,"['jena', 'inference', 'java', 'semanticweb', 'reasoning']"
+[closed] Merging SPARQL query graphs in to one,Arsham,0,"['sparql1.1', 'graph-matching', 'sparql']"
+Python RDFLib - Merge RDFS ontology and instances,sam123,114,"['python', 'rdflib', 'rdf', 'ontology', 'rdfs']"
+TopBraid Composer versus Protege for editing OWL ontologies,François Sch...,41,"['topbraid-composer', 'ontology-modelling-tools', 'protege']"
+Protege 4.3 has no create project tab,Sandeep,109,"['rdf', 'protege']"
+triple object - when to use object as literal or resource?,somedev,1,"['subject-predicate-object', 'rdf', 'literals', 'resources']"
+SimpleNLG allows to find the singular form of a word?,chiara 2,1,"['language', 'java']"
+Jena ResultSetFormatter hangs with owl:inverseOf,tjb1982,75,"['jena', 'owl', 'ontology', 'inference', 'reasoner']"
+[EDITED] Protege DL Query: individuals related to a class which has a certain datatype value,Gaby,13,"['owl', 'ontology', 'protege']"
+Input data annotation,reza,1,['rdfa']
+Ontology genration for social bookmarking site?,Risha,1,"['ontology-modelling', 'social-networks']"
+integrating heterogeneous data,sudinem,-1,"['linkeddata', 'data_integration']"
+Are SKOS concepts with multiple notations actually used?,Jakob,1,['skos']
+[closed] why sparql does not give cartesian product?,kakaz,11,"['sparql', 'virtuoso']"
+Owl2Query plugin for Protege 4.3,Gaby,13,"['owl', 'plugin', 'query', 'sparql', 'protege']"
+OWL-DL: restrictions and/or domain-range?,Gaby,13,"['owl', 'dl', 'property', 'restrictions']"
+Protege 4.3 - How to link a class and an individual from an enumerated class using an object property?,Mike311,11,"['subject-predicate-object', 'namedindividual', 'protege']"
+How can i implement the concept of semantic web RDF & OWL in websites,Praveen,11,"['microformats', 'owl', 'rdf', 'semanticweb', 'rdfs']"
+Using a SPARQL query to get data from UK government datasets,sashmead,21,"['query', 'sparql']"
+filter out certain properties from sparql query result,rlkrlk,15,"['dbpedia', 'sparql']"
+How describe in triples a microformat hcard?,Celsowm,492,"['rdf', 'microformats', 'hcard', 'vcard', 'html']"
+How can the inferences of the reasoner in Protege be saved in the generated owl file?,lingo,21,"['owl', 'protege', 'reasoning', 'reasoner']"
+How do I create and then query a Sesame native repository?,MikeG1117,66,"['triplestore', 'sesame', 'openrdf', 'sparql', 'database']"
+Smart city ontology,aditya,19,['ontology']
+confused about owl rdf,semanticwhacko,309,['ontology']
+Error while opening an importing ontology OWL API,danimv,25,"['imports', 'ontology', 'java', 'owl-api', 'protege']"
+An ontology database model,kamlhmaz,389,"['database', 'ontology', 'reasoning', 'storage']"
+how to open rdf file in protoge 3.4,semanticwhacko,309,['protege']
+how to combine RDFa data into single file,sudinem,-3,"['rdf', 'rdfa', 'sparql']"
+Is there any Partial OWL/API java code to find the path hierarchy of a node?,NweNwe,11,"['owl-api', 'protege']"
+sparql query problem,semanticwhacko,309,['sparql']
+Efficient Schema for storing RDF triples in MongoDB,Newbie07,33,"['json', 'rdf', 'triples', 'schema']"
+Class data type restriction using a double in Protegé 4.3,yassin34,11,"['restrictions', 'data', 'protege']"
+how to design a simple html -javascript to Query  the capital city of any given county from Dbpedia,SamKan,10,['sparql-endpoint']
+Web operating system?,chrisglasier,43,['w3c']
+"Protege, add automatically individuals to ontology",loweherz,1,"['ontology', 'protege']"
+"protege, generate event when there is 3 or more individual",loweherz,1,"['ontology', 'protege']"
+Exploratory search/Master THesis,samoshaar,11,"['search', 'semantic']"
+Mapping between RDF data and Ontology,sam123,114,"['ontology', 'mapping', 'ontology-mapping', 'rdf']"
+SPARQL: subqueries and absence of predicate,Jaka Dirnbek,17,"['query', 'subquery', 'ontology', 'sparql', 'virtuoso']"
+[closed] semantic search using sparql-dl and owlapi,yala_cat,2,"['owlapi', 'owl', 'search', 'jsp', 'semantic']"
+Specifying a property chain with a condition on intermediate entity,serasset,32,"['owl', 'chaining', 'modelling']"
+How do I load an OWL ontology in a Graph in dotNetRDF?,pelikanos,21,"['asp.net', 'owl', 'rdf', 'dotnetrdf', 'graph']"
+java error when removing empty words,samou,11,['java']
+Ontology for hardware features,Vladimir Ale...,588,['goodrelations']
+Cannonical Data Model using RDF/OWL & Protege,dakuji,11,"['owl', 'protege', 'conceptual-modeling', 'rdfs']"
+Does 4store support owl reasoning?,Amin,67,"['triplestore', 'owl', 'documentation', 'reasoning', '4store']"
+Jena : Find graph name of given statement,riad19000,49,"['jena', 'quads', 'triples', 'dataset']"
+How to retrieve the GoodRelations as RDF/XML ?,Maatary,236,['goodrelations']
+Linking between RDF store and Ontology schema,Techy,1,"['rdf', 'semantic', 'semanticweb', 'protege']"
+Using schema.org vocabulary with GoodRelations,Maatary,248,"['goodrelations', 'microdata', 'schemaorg', 'rdfa', 'rdfs']"
+update Sparql using openrdf sesame Java API,helpdesk,9,"['sesame', 'java']"
+filter query variables across two named graphs in the same dataset (Jena),papaleo,369,"['jena', 'filter', 'dataset', 'sparql', 'named-graph']"
+"Problem with ""datatype"" function in a SPARQL query",alejandrorg,11,"['jena', 'datatypes', 'sparql', 'sparql-functions']"
+what is the format of stored and queried data using ARC2,mimouza,17,"['php', 'sparql', 'arc2']"
+Aggregate function in Sparql,technicyz,19,"['python', 'aggregates', 'sparql']"
+Ask for some “semantic annotation tools”for documents（word，pdf，tex etc）,ucas2012,9,"['semantic', 'annotation']"
+How to know the exact name which represent a thing in Dbpedia?,mimouza,17,"['dbpedia', 'sparql']"
+How to represent User Profile ?,Julsiop,13,"['owl', 'rdf', 'semantic', 'semanticweb', 'rdfs']"
+RDF from SPARQL Query,mai 4,1,"['rdf', 'sparql', 'jena']"
+"SQL database, Ontology, and VBA",ConnorJ,11,"['database', 'ontology', 'ontology-modelling-tools', 'sql']"
+display sparql result in dbpedia page's form using sesame,asma,5,"['sesame', 'dbpedia', 'java', 'sparql', 'semanticweb']"
+Python program to create RDF Triples from plain text,PGS,1,"['python', 'rdflib', 'rdf', 'nlp']"
+Converting Websites in HTML into RDF,B-777,31,"['converter', 'rdf']"
+get just the subject from a construct query,asma,5,"['owl', 'ontology', 'inference', 'sparql', 'rdf']"
+enlarge a small ontology,asma,5,"['linkeddata', 'ontology', 'dbpedia', 'semanticweb', 'sparql']"
+BindingBase hits a null pointer exception on a TDB sparql query,Zucca,101,"['jena', 'tdb', 'query']"
+OWL to description Logic tool?,Badrinath,9,"['owl2', 'owl', 'description-logic', 'knowledge-representation']"
+vocabulary describing food,asma,5,"['linkeddata', 'ontology', 'vocabulary', 'dataset']"
+linked data with TopBraid composer,asma,5,"['linkeddata', 'dbpedia', 'topbraid']"
+How to delete blank node in SPARQL ?,Slm,1,"['jena', 'blank-nodes', 'sparql']"
+Right term for a querying/visualization tool and related processes,LukeK,31,"['visualization', 'concepts', 'terminology', 'query']"
+How to represent one to many custom links?,Julsiop,23,"['owl', 'rdf', 'reasoning', 'ontology', 'rdfs']"
+bring comment that arn't in ontoo A but they are in B using owl:sameas,asma,5,"['sesame', 'linkeddata', 'ontology', 'sparql', 'semanticweb']"
+domains replaced bu restrictions issue,Michel Bohms,29,['rdfs-domain']
+Multiple domain and range in objectProperty?,anjilina,13,"['ontology', 'java', 'owl-api']"
+Sharing Jena TDB data store,AGrzes,149,"['jena', 'java']"
+DisjointObjectProperties vs NegativeObjectPropertyAssertion,cm3,13,['owl2']
+Convert SPARQL queries to human understandable form?,rosebeck,173,"['sparql1.1', 'rdf', 'semantic', 'sparql', 'semanticweb']"
+Semantic Repository of ALL webpages of Internet - Semantic Web 1.0,marcelf,7,['semanticweb']
+"How to state for one instance, not allowing two links to the same ressource ?",Julsiop,23,"['owl', 'rdf', 'ontology', 'rdfs']"
+URI for an ontology,Julsiop,23,"['ontology-modelling', 'rdf', 'rdfs', 'ontology', 'owl']"
+What are the reasoning task of OWL?,nerea,131,"['owl', 'ontology', 'reasoning', 'reasoner']"
+Publishing a OWL2-DL compatibale DataSet: the case of OWL import,Maatary,178,"['owl2', 'linkeddata', 'dataset']"
+Non-string properties in CKAN,Yury Katkov,61,"['opendata', 'semanticweb', 'dataset']"
+How to interpret OWL-Horst rule,minnepe,59,"['rules', 'owl']"
+OWL import between ontology,Maatary,236,"['linkeddata', 'ontology']"
+An RDF editor to produce dataset to be published as linked data,Maatary,248,"['rdf', 'editor', 'dataset']"
+open graph explorer-saving rdf to pc,semanticwhacko,309,"['rdf', 'open-graph-protocol', 'facebook', 'social-graph']"
+"Can an ObjectProperty, defined in OWL, be used in RDF?",hanst,472,"['property', 'owl', 'rdf']"
+Sparql query ersult,tamouze,5,"['query', 'sparql']"
+Creating JSON-LD contexts for models based on BFO?,marijane,11,['json-ld']
+"How Extend your ontology using other standard Ontologies like(frbr, Provs, org) in Protege Desktop tool",Priya,1,"['rdf', 'semantics', 'ontology', 'protege']"
+Federated query / Graph merge and inconsistency,Maatary,178,"['query', 'federated-query', 'reasoning', 'inconsistency']"
+Is RDF/OWL a representation or the database ?,gaurav264,27,"['owl', 'rdf', 'semanticweb', 'owl-api', 'database']"
+jena user defined function argument and return value,Mheevun,13,"['jena', 'ontology', 'sparql-functions', 'time']"
+How to Work with 2 or Many ontologies together in Protege Desktop Tool or Web Protege,Priya,1,"['ontology-modelling', 'ontology', 'semantic', 'ontology-mapping', 'protege']"
+[closed] Sesame/Jean Native Storage or the MongoDB/MySQL database for RDF,gaurav264,27,"['triplestore', 'sesame', 'database', 'rdfs']"
+SPARQL JENA query with variable,noah,1,"['jena', 'query', 'sparql']"
+SPLENDID federated query engine: Is there a source code?,georges,11,"['distribution', 'federated-query', 'sparql']"
+"Is there a term for ""Default Context(Graph)"" in Sesame?",Amin,43,"['sesame', 'context', 'named-graph']"
+Jena: Nullpointer exception while iterating the dataset,PGS,1,"['jena', 'triplestore']"
+How do extract feature of nodes in ontology?,Princes,11,['owl-ontology']
+Fuseki configuration for service endpoint (query service),Miaad,11,"['sparql-endpoint', 'services', 'fuseki']"
+how to get all restriction on a class from owl file via jena,thuyloan,1,['semantic']
+DARQ federated query engine : missing mapping file?,georges,11,"['sparql-endpoint', 'federated-query', 'sparql']"
+Where to look for mapping of prefix,nahoan,15,['dbpedia']
+Availble Linkset in the LOD cloud,mylafi,11,"['lod-cloud', 'linkeddata']"
+using same object property twice in protege 3.4.4(shreyes),shreyes,11,['protege']
+DBPedia Local Store and comparing it with other semantic database,reprep,11,"['dbpedia', 'speed', 'sql']"
+Can you check for two parameters whether they exist,angelina1984,13,"['filter', 'regexp']"
+query using SPARQL with RDF inference model (reasoner),user-1027 (g...,1,"['rdf', 'reasoning', 'inference', 'sparql']"
+Jena-Protege teamwork+ Jena inference issues,Zsombi,49,"['jena', 'inference', 'owl', 'rdf-xml']"
+How to write abbreviated int/numeric literal in Turtle format using Apache Jena 2.11.2?,Hendy,13,"['jena', 'turtle', 'rdf', 'literals']"
+Multiple predicate inference,jjk,23,"['predicates', 'inference']"
+How to find a relationship between two resources on DBpedia?,Aya7aja,1,"['dbpedia', 'sparql', 'resources']"
+merging ontologies,shreyes,11,['ontology']
+How to run a SPARQL query against a local RDF file using PHP?,felipezkn,11,"['php', 'sparql', 'rdf']"
+Protege direct import fail.,Piro,13,"['owl', 'protege']"
+"Why is RDF so old, complicated, unpopular and still not discarded?",Alexander,91,"['rdf', 'semanticweb', 'discussion']"
+[closed] Source code of this article,Albert,-1,"['semantic', 'semanticweb']"
+map ontology classes to database attributes,shreyes,11,"['protege', 'ontology', 'database']"
+Link ontologies from DBpedia to external ones with sameAS,najibla,73,"['owl-sameas', 'rdf', 'dbpedia', 'sparql']"
+Yago and FreeBase ontologies in OWL,najibla,73,"['yago', 'owl', 'freebase']"
+What SPARQL queryable browser storage solutions exist for rdf data?,Kriss,51,"['triplestore', 'rdf', 'storage', 'sparql', 'browser']"
+Incorrect rdfs:label be for skos:hasTopConcept,MacGyver,193,"['skos', 'label']"
+Jena: Parse XSDDatatype from String,Scyla,41,"['jena', 'java', 'literals', 'xsd']"
+What components do I need to store rdf data in a triple store from a Node.js server?,Kriss,51,"['node.js', 'triplestore', 'rdf', 'web', 'json-ld']"
+How to sort on the second item of a property,nahoan,15,['dbpedia']
+How do I install Jena-Fuseki on Ubuntu 14.04?,Kriss,51,"['jena', 'fuseki', 'ubuntu']"
+Configuring Fuseki to work with Jena SDB,krzysztof golab,89,"['jena', 'sparql-endpoint', 'fuseki', 'sdb', 'sparql']"
+Internationalization of Data Property Range Values,ashishnijhara,11,"['owl2', 'ontology-modelling', 'owl2dl', 'rdf', 'pellet']"
+RDF-raptor-parser,rnaveen31,31,"['rdf', 'rdflib']"
+How do I create an Ontology by myself using the Jena API?,soulmountain,71,"['jena', 'ontology', 'semanticweb', 'tutorial', 'theory']"
+Jena broken token (newline),nerea,116,"['jena', 'turtle', 'parsing']"
+how to query dbpedia using jena java?,NweNwe,11,"['dbpedia', 'sparql']"
+I would like to parse owl document by using php. Is there any framework for doing that? Is Arc2 possible to do that?,Fon,11,"['ontology', 'owl']"
+[closed] SKOS Vs FOAF,Maatary,270,['skos']
+OWL (Semantic Web) ontology for hierarchical objects that can be linked to users or groups with read / write permissions,daveboden,61,"['owl', 'rdf', 'semanticweb', 'ontology', 'linkeddata']"
+what should be Getty ULAN be mapped to?,Vladimir Ale...,588,"['ulan', 'getty']"
+How to Insert data of SQL database into an existing Ontology,ahmedsaud,228,"['ontology', 'database']"
+[closed] Which framework for SWRL rule definition and execution?,rampier,11,"['swrl', 'jena', 'owl-api']"
+Which framework for SWRL rule editing and execution?,rampier,11,"['swrl', 'jena', 'owl-api']"
+DBpedia Statistics without SPARQL,fabiovalse,100,"['statistics', 'dbpedia', 'sparql']"
+How to do matching from ontology database,reema,19,"['ontology', 'database', 'matching']"
+Protege 5.0 beta: How to add a blank node (bnode)?,Mate Matic,31,"['blank-nodes', 'protege']"
+Maximum length of string literals?,database_animal ♦,8,"['literals', 'strings']"
+OWL-S/Profile.owl extension with protégé and manipulating it with Jena,olfaDH,-5,"['jena', 'owl-api', 'owl-s']"
+Modelling objects and their status in OWL ontology,obada,47,"['ontology-modelling', 'knowledge-representation', 'ontology', 'protege', 'owl']"
+SPARQL query over object property,Adil Almas,1,['sparql']
+[closed] How to convert .ttl to .n3,Reshu Khurana,99,"['rdf', 'semantic', 'semanticweb']"
+How to convert .ttl to .n3,Reshu Khurana,99,"['rdf', 'semantic', 'semanticweb']"
+Ontology for processes,i_and_i,11,"['process', 'owl', 'ontology', 'upper-ontology', 'rdfs']"
+Jena Fuseki Text Search - Deletion of indexed entities,polgillou,11,"['jena', 'lucene', 'solr', 'indexing', 'fuseki']"
+RDF for describing services,gabriela,11,"['goodrelations', 'rdf', 'linkeddata', 'rdfs']"
+SAWSDL recommendation using SPARQL,Ivan846,11,"['jena', 'rdf', 'sparql']"
+Inserting data using sparql,ahmedsaud,198,['sparql']
+Use RDF to find intersections of a point with a bounding box,Scyla,33,"['rules', 'rdf', 'sparql']"
+needing advice about Parliament triplestore usage,rok,11,"['jena', 'rdf', 'java']"
+php crud operation semantic web,user-1093 (g...,1,"['semantic', 'web']"
+SPARQL-DL query result in the Open World Assumption,obada,47,"['cwa', 'query', 'sparql', 'open-world', 'owl']"
+How do I load FIBO into Protégé?,database_animal ♦,8,"['paths', 'owl', 'fibo', 'imports']"
+execute SWRL rule using SPARQL,ahlem,19,"['swrl', 'query', 'java', 'sparql', 'protege']"
+development semantic web,user-1093 (g...,1,"['php', 'sparql', 'arc2']"
+How to run rdfs:member on a SPARQL endpoint?,madbitbot,11,"['sparql-endpoint', 'rdf', 'sparql', 'rdfs']"
+Exception IllegalAccessError com.hp.hpl.jena.reasoner.BaseinfGraph.isPrepared/ Pellet/jena/java,olfaDH,-5,"['jena', 'java', 'ontology', 'pellet']"
+OWL Property Characteristics,anasanjaria,25,"['ontology', 'protege']"
+How the various triple tables related to one another?,ksa,25,"['triplestore', 'relational', 'storage', 'semanticweb', 'database']"
+Are there any tutorials out there on how to bind RDF datasources to ASP.NET controls?,charlie_dotNet,11,"['asp.net', 'web']"
+Problem with SPARQL Query,Amar,21,"['jena', 'sparql']"
+How do buy bulk e juice products online worldwide?,eliquiwholes...,9,['spam']
+"SPARQL - Retrieve all triples for a given resource, where resource has a specific rdfs:label",jea,189,"['sparql', 'semanticweb']"
+Semantic annotation of IOT data,haroon rashid,34,"['rdf', 'semantic', 'semanticweb', 'sparql']"
+triple store for storing data/measurements generated from sensors,haroon rashid,46,"['jena', 'triplestore', 'rdf', 'sparql', 'semanticweb']"
+"difference between jena, sesame and Protege",haroon rashid,46,"['jena', 'sesame', 'ontology', 'protege']"
+"An alternative setup for dereferencing URI's, with content-negotiation, without 303 or puning",Flion,788,"['dereferencing', 'redirection', 'resource', 'uri', 'linkeddata']"
+Semantic web: Entity vs. Concept vs. Class,ksa,27,"['owl', 'rdf', 'ontology', 'semanticweb', 'rdfs']"
+SPARQL query to get implicit and explicit facts about ontology,Flion,788,"['query', 'ontology', 'sparql', 'blank-nodes']"
+Use an ontology to store CSV data into RDF form,haroon rashid,46,"['semanticweb', 'ontology', 'sparql', 'linkeddata', 'rdf']"
+import classes of an ontology in Protege 5.0.0,haroon rashid,46,"['owl', 'rdf', 'ontology', 'protege']"
+Individuals not visible in Protege,haroon rashid,46,"['jena', 'owl', 'rdf', 'ontology', 'protege']"
+Difference between dateTime and dateTimeStamp in Protege 5.0.0,haroon rashid,46,"['jena', 'sparql-update', 'ontology', 'protege']"
+Exception in data Insertion with SPARQL,haroon rashid,46,"['jena', 'owl', 'rdf', 'sparql', 'protege']"
+Fuseki: Can't guess language for file,Kim,35,"['jena', 'tdb', 'fuseki']"
+"Retrieving (subject, object) for annotation assertion axioms by property with OWL-API",sharky,99,['owl-api']
+Ontology based data integration,sss8490,13,"['data', 'data_integration']"
+Question about inference over datatype range restriction and class equivalence.,rcantonialli,345,"['owl', 'datatypes', 'equivalence', 'inference', 'range']"
+Getty SPARQL gives a 404 if you pass Accept: application/json,jcoyne,11,"['aat', 'getty']"
+are all classes a subclass of rdfs:Resource?,Flion,808,"['owl', 'rdfs-subclassof', 'inference']"
+duplicate owl individuals when convert xml documents to owl instance by using xslt,August,9,"['xml', 'owl', 'ontology', 'xslt']"
+"In Protege, why are some classes gray and others black?",jllogan,57,['protege']
+how to use REGEX in a SPARQL query,jfix,11,"['query', 'sparql', 'regexp']"
+Correct way to mark up accesskey,user-38 (goo...,1,"['tag-choice', 'accesskeys']"
+SQWRL in dotnetrdf,ahmedsaud,228,"['dotnetrdf', 'swrl']"
+Copy all graphs and triples from one virtuoso to another?,Jesus,243,"['sparql-endpoint', 'graph', 'triples', 'sparql', 'virtuoso']"
+No results when attributes are present,simon wibberley,11,"['jena', 'tdb', 'rdf', 'sparql']"
+graphic representation of sparql endpoint's schema,odameron,11,"['sparql-endpoint', 'graph', 'schema']"
+How to delete a subgraph by SPARQL?,Kamal,1,"['blank-nodes', 'sparql']"
+retrieve data from the database which is attached with the help of datamaster,shreyes,11,['protege']
+Semantic Annotation tools for hRESTS and SA-REST,Cathal Cleary,1,"['tools', 'semantic', 'annotation', 'rest']"
+OwlApi. Importing ontology and triples,hesse92,13,"['dbpedia', 'owl-api']"
+rdf:XMLLiteral in SPARQL CONSTRUCT queries,qhreul,1,"['literals', 'sparql', 'construct']"
+Any existing website/web application implementing semantic web?,Tariq,200,"['web', 'semantic', 'project', 'semantic-networks', 'semantics']"
+OWL Problem,William Greenly,5,"['owl2', 'jena', 'sparql', 'reasoning']"
+Which are the Linked data sets with a hierarchical ontology?,fabiovalse,118,"['hierarchy', 'ontology', 'trees', 'dataset']"
+Comparing Reasoners,kemany55,5,"['reasoner', 'sparql', 'reasoning', 'owl-api', 'protege']"
+TROvE reasoner evaluation,kemany55,5,"['reasoner', 'reasoning', 'owl']"
+Exception accessing owl file in dotnetrdf,ahmedsaud,228,"['dotnetrdf', 'rdf', 'owl']"
+jena library in order to Diagnosis disjointwith classes,taghandiky,11,"['jena', 'linkeddata', 'ontology', 'dbpedia', 'semanticweb']"
+How is RDF persist in triplestore?,papirek,1,"['triplestore', 'rdf']"
+Does an Object literal always mean the Predicate and Object form a key-value property on the Subject?,D E Millin,11,"['property', 'objectproperty', 'rdf', 'literals', 'etl']"
+What is the best practice to query large ontologies?,rfonto,87,"['jena', 'best-practice', 'ontology', 'sparql', 'protege']"
+What is the best practice to query large ontologies?,rfonto,87,"['jena', 'best-practice', 'ontology', 'sparql', 'protege']"
+how to use a string ending with a quote in SPARQL,Flion,810,"['serialization', 'newline', 'literals', 'sparql']"
+Literal typed and non-typed,jjk,23,"['literals', 'sparql', 'fuseki']"
+How to use Jena with SPARQL Property Paths,ava14,9,"['jena', 'sparql1.1', 'sparql', 'property-paths']"
+Arbitrary length path with intermediate conditions in SPARQL,PalaD,11,"['sparql', 'property-paths']"
+rdf:id with jena defining a statement,jo ee,13,"['jena', 'rdf']"
+Import PROV ontology into Protégé,freyja,55,"['provenance', 'protege']"
+Trigonometry functions in Virtuoso,tpayns,11,"['geosparql', 'sparql', 'virtuoso']"
+How to achieve consensus on a knowledge representation?,daw,33,['knowledge-representation']
+Multiple HasKey/subclass axiomes for an OWL Class,beli,15,['owl']
+Action recommendation for semantic navigation system,LukeK,31,['best-practice']
+Current trends in generating RDF/OWL instances from user input via web interface,hattorihanzo,11,"['swrl', 'owl', 'rdf', 'sparql', 'jena']"
+how to modify the range of  a dataProperty?,beli,15,['owlapi']
+RDFa in practice,Maatary,270,['rdfa']
+Rich content exploration (entity-linking),Maatary,270,"['linkeddata', 'rdf', 'semanticweb']"
+Retrieve structured data of a Book,DonnaDulcinea,15,"['query', 'sparql']"
+how to match keyword from webpage with entities in the ontology?,reema 1,13,['ontology']
+Sparql service authentication in Fuseki2,riad19000,49,"['jena', 'security', 'fuseki']"
+What tools are there for validating implementation (incl. content negotiation) of linked data publishing recipes?,Jan,139,"['linkeddata', 'publishing', 'lod', 'server']"
+Ontology for Standards,bakenoor,1,"['ontology', 'upper-ontology']"
+How to link a resource to an event?,FransK,12,"['linkeddata', 'events']"
+Full-text search workflow recommendations needed,Welblaud,21,"['jena', 'fuseki', 'workflow']"
+How to parse SPARQL JSON answers with Jena?,gdiazc,15,"['jena', 'json', 'sparql']"
+Incremental indexing for semantic search,Maatary,270,"['triplestore', 'search', 'changes']"
+implement an ontology with huge amount of instances - how to deal with it?,gentuser,3,"['jena', 'instance', 'database', 'mapping', 'workflow']"
+free tool for displaying OWL 2 classes and names of object properties (not only arcs),beli,13,['ontology']
+best free triplestore with OWL2 inference & up-to-date comparisons,Flion,810,"['triplestore', 'owl2', 'inference']"
+JSON-LD and SPARQL,pan,11,"['json-ld', 'sparql-endpoint', 'sparql']"
+When is something a rdfs:Class?,matthias_r,11,"['learning', 'rdfs']"
+Is rdfs:Resource the class of everything?,matthias_r,11,"['learning', 'rdfs']"
+How to speed up results for queries against AGROVOC?,Manoj Selvam,11,"['sparql-endpoint', 'rdf', 'semanticweb', 'semantics', 'sparql']"
+How to determine the meaning of a word in a sentence?,Lerner Zhang,11,['wordnet']
+Web portal that natively supports Jena TDB and Fuseki,Darko,11,['jena']
+Converting SPARQL results to objects or tables,hattorihanzo,66,"['object-orientation', 'sparql']"
+Implication of using a wordnet verb as a property,Fabian Cretton,1,"['owl', 'rdf', 'wordnet', 'rdfs']"
+Architecting server-side RDF data creation,rbh,11,"['jena', 'rdf', 'java', 'fuseki']"
+Get list of ontologies and theirs classes and properties,alireza,11,"['graph', 'dotnetrdf', 'sparql', 'ontology', 'virtuoso']"
+Consistency of TBox/ABox,beli,15,['owl']
+"How ""schematize"" a ontology?",Celsowm,486,"['schema', 'rdf', 'triples', 'protege']"
+Protege Equivalent Class Problem,tjb,1,['protege']
+printing out individuals for each concept in an ontology using rdflib,Hossein,1,"['rdf', 'rdflib', 'ontology']"
+guidance for executing the query in java programm,user007,13,"['java', 'jena']"
+Creating SPARQL endpoint with Jena TDB,Priyam,490,['jena']
+how Add Rules dynamicly in Pellet when use TDB?,Mike,61,"['tdb', 'swrl', 'pellet']"
+[closed] Add SWRL Rule in Pellet,Mike,61,"['swrl', 'pellet']"
+How to pass a value of a variable from a java class to the jsp page,Archana,87,['java']
+Can't start Virtuoso,Genadinik,965,"['virtuoso', 'ubuntu', 'triplestore']"
+No default virtuoso.ini file after installation?,Genadinik,965,"['virtuoso', 'triplestore', 'ubuntu']"
+Virtuoso errors out when accessed via browser,Genadinik,965,"['virtuoso', 'triplestore', 'ubuntu']"
+A error got when run SPARQL query against a model of D2RQ,W.T Zhou,697,"['sparql', 'd2rq', 'sql']"
+Music Ontology Sparql,Eymen,11,"['music', 'sparql']"
+Problem connecting OntoWiki to Virtuoso,Genadinik,965,"['semanticweb', 'virtuoso', 'configuration', 'triplestore']"
+Can't load Virtuoso Conductor,Genadinik,965,"['virtuoso', 'triplestore', 'semanticweb']"
+isql 1111 command not finding Virtuoso,Genadinik,965,"['virtuoso', 'triplestore', 'semanticweb']"
+Best way to populate OntoWiki in Virtuoso?,Genadinik,965,"['semanticweb', 'triplestore', 'repository', 'linkeddata']"
+How get all subclass of a class in SPARQL?,Celsowm,486,"['sparql', 'query', 'rdfs-subclassof']"
+Building Wikipedia query forms  in java using jena,semanticwhacko,309,"['jena', 'java', 'sparql', 'sparql-endpoint']"
+NamedGraph from a loaded Jena Model,Monika Solanki,519,"['jena', 'named-graph']"
+Ontology to a conceptual schema,kamlhmaz,389,"['ontology', 'transformation', 'schema', 'er', 'uml']"
+[closed] Solr: How can I implement timed discount availablity in solr,i-moan,3,['solr']
+Virtuoso Reasoner Problem,jsightler,333,"['virtuoso', 'rdfs', 'owl']"
+How to create RDFa-powered N3 in the HTML output?,Egon Willigh...,1,"['rdfa', 'xhtml', 'bibo', 'cito', 'n3']"
+OWL constaint on a set of datatypes.,Jerven ♦,4,"['pellet', 'owl']"
+Named individuals in correspondence,brinxmat,1,['ontology']
+Google API to get URL's for RDF?,dddd,1,"['google', 'api']"
+including RDF in an XML workflow,Johan De Smedt,9,"['rdf', 'xslt', 'xml']"
+keyword query to rdf graph,aseel,9,"['rdf', 'advertising', 'keyword', 'matching']"
+Is SPARQL Turing complete?,Carsten,85,['sparql']
+basic principle of onthology,Issa Kehinde,11,"['ontology', 'beginner']"
+How to get started with virtuoso universal server for rdf querying.,Shishya,11,"['sparql', 'virtuoso']"
+[closed] Copy Constructor,Rakesh Roshan,0,"['copy', 'offtopic', 'c++', 'constructor']"
+[closed] Extract individuals,nikhilneela,39,['owl']
+Ontology similar to PeroidicTable for integrated search,semanticwhacko,309,"['owl', 'rdf', 'semantic', 'sparql', 'ontology']"
+"[closed] Is any book on Sesame API which covers the packages,interfaces ,classes and methods in sesame API",joe,47,['sesame']
+[closed] calling a SPARQL EndPoint using Google app engine and PHP,gfgf,93,"['google', 'php']"
+What's the use of an XMI to OWL translation?,Kris,1,"['grddl', 'xml', 'owl']"
+creat course repository,toty,11,"['owl', 'database', 'reasoning', 'repository', 'dataset']"
+semantic web use in service-oriented-architecture,hadi,1,"['services', 'web', 'semantic', 'soa']"
+Rdf query on cassandra (ruby),nolamesa,23,"['ruby', 'rdf', 'sparql', 'nosql']"
+Exception using dotNetRDF to query dbpedia,friism,87,['dotnetrdf']
+To what extent should data be normalized for use on the Semantic web?,brinxmat,1,['modelling']
+How do I delete a named graph in Virtuoso?,Sandeep,109,['virtuoso']
+Subquery in Sparql,Prachi Jain,9,"['sparql', 'wss', 'subquery']"

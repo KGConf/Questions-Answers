@@ -2,6 +2,8 @@ import json
 from pprint import pprint
 import operator
 
+import matplotlib.pyplot as plt
+import numpy as np
 if __name__ == '__main__':
     tag_list = []
     rank={}
@@ -19,4 +21,10 @@ if __name__ == '__main__':
             else:
                 rank[tag]+=1
     sorted_x = sorted(rank.items(), key=operator.itemgetter(1), reverse=True)
+
+    x = np.array([i[1] for i in sorted_x])
+    label = [i[0] for i in sorted_x]
+
+    plt.pie(x, labels=label)
+    plt.show()
        
