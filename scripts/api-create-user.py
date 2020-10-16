@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
         SESSION_COOKIE = r.cookies  # ["_forum_session"]
 
-        with open('./api-create-user.txt') as f:
+        with open('./api-user-passwords.txt') as f:
             pwd = f.readline()
 
         # Now, create a user to the _forum_session
